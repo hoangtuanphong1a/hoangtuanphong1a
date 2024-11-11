@@ -1,4 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slider</title>
+    <style>
+        .slider {
+            width: 800px;
+            overflow: hidden;
+            position: relative;
+            margin: 20px auto;
+        }
+        .slides {
+            display: flex;
+            transition: transform 0.5s ease;
+            width: calc(800px * 5); /* 5 images */
+        }
+        .slide {
+            width: 800px;
+            flex-shrink: 0;
+        }
+    </style>
+</head>
+<body>
 
+<div class="slider">
+    <div class="slides">
+        <div class="slide"><img src="images/myimage.jpg" alt="Image 1" width="800"></div>
+        <div class="slide"><img src="link_to_image2.jpg" alt="Image 2" width="800"></div>
+        <div class="slide"><img src="link_to_image3.jpg" alt="Image 3" width="800"></div>
+        <div class="slide"><img src="link_to_image4.jpg" alt="Image 4" width="800"></div>
+        <div class="slide"><img src="link_to_image5.jpg" alt="Image 5" width="800"></div>
+        <div class="slide"><img src="link_to_image5.jpg" alt="Image 5" width="800"></div>
+    </div>
+</div>
+
+<script>
+    let currentIndex = 0;
+    const slides = document.querySelector('.slides');
+    const totalSlides = document.querySelectorAll('.slide').length;
+
+    function showNextSlide() {
+        currentIndex = (currentIndex + 1) % totalSlides;
+        slides.style.transform = 'translateX(' + (-currentIndex * 800) + 'px)';
+    }
+
+    setInterval(showNextSlide, 3000); // Change slide every 3 seconds
+</script>
+
+</body>
+</html>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
