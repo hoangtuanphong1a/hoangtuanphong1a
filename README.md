@@ -1,144 +1,101 @@
-<h1 align="center">Hi there! I'm Hoang Tuan Phong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=440&lines=Frontend+Developer+%F0%9F%92%BB;4%2B+years+of+coding+experience;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;4%2B+years+of+coding+experience+%E2%8C%A8;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/hoangtuanphong1a?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-    <img src="https://img.shields.io/github/stars/hoangtuanphong1a?label=Stars&style=for-the-badge&color=0e75b6" alt="stars" />
+  <a href="https://github.com/hoangtuanphong1a">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://fb.com/tuan.phong.16718">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/tuan.phong.16718">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
-<h2>🎯 About Me</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=for-the-badge&color=54A6FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=for-the-badge&color=54A6FF" alt="Followers" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif">
+<br/>
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&count_private=true&hide_border=true&title_color=54A6FF&icon_color=54A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Hoang Tuan Phong's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&hide_border=true&theme=transparent&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=FFFFFF" alt="Streak stats" />
+</div>
+
+### 💫 About Me:
 ```typescript
-interface Developer {
-    name: string;
-    location: string;
-    role: string;
-    workingOn: string[];
-    knowledge: {
-        languages: string[];
-        frontend: string[];
-        backend: string[];
-        databases: string[];
-        tools: string[];
-    };
-    currentLearning: string[];
-    hobbies: string[];
-}
-
 const phong: Developer = {
     name: "Hoang Tuan Phong",
     location: "Vietnam 🇻🇳",
-    role: "Frontend Developer",
-    workingOn: [
-        "Building responsive web applications",
-        "Creating user-friendly interfaces",
-        "Learning advanced React patterns"
-    ],
-    knowledge: {
-        languages: ["JavaScript", "TypeScript", "Python", "Java"],
-        frontend: ["React", "Next.js", "Vue.js", "TailwindCSS", "SASS"],
-        backend: ["Node.js", "Express", "Spring Boot", "Spring MVC"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "Webpack", "Jest", "Cypress"]
+    currentRole: "Frontend Developer 💼",
+    education: "Computer Science Graduate 🎓",
+    workingOn: "Advanced Java, Spring MVC, Flutter Projects 🚀",
+    interests: ["Web Development", "Mobile Apps", "UI/UX Design"],
+    
+    technical: {
+        frontend: {
+            javascript: ["React", "Next.js", "TypeScript"],
+            css: ["Tailwind CSS", "SASS", "Bootstrap", "Material-UI"],
+            tools: ["Redux", "React Query", "Webpack"]
+        },
+        backend: {
+            javascript: ["Node.js", "Express"],
+            java: ["Spring Boot", "Spring MVC"],
+            databases: ["MongoDB", "MySQL", "PostgreSQL"]
+        },
+        mobile: ["Flutter", "React Native"],
+        design: ["Figma", "Adobe XD"],
+        testing: ["Jest", "React Testing Library"]
     },
-    currentLearning: ["System Design", "AWS", "React Native"],
-    hobbies: ["Coding", "Reading", "Gaming", "Music"]
+    
+    currentlyLearning: ["System Design", "AWS", "GraphQL"],
+    funFact: "I turn coffee into code ☕️"
 };
 ```
 
+### 🛠️ Technologies & Tools
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,spring,flutter,tailwind,mongodb,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,jest,figma,vscode,idea,postman,nginx,redux" />
 </div>
 
-<h2>🛠️ My Skills</h2>
-
-<h3>👉 Programming languages</h3>
-<p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-</p>
-
-<h3>👉 Frontend Development</h3>
-<p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
-</p>
-
-<h3>👉 Backend Development</h3>
-<p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-</p>
-
-<h3>👉 Database & Cloud</h3>
-<p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-</p>
-
-<h2>📊 My GitHub Stats</h2>
-
-<details>
-<summary>💫 Click to view stats</summary>
+### 📊 This Week I Spent My Time On:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hoangtuanphong1a&hide_border=true&theme=transparent&bg_color=0d1117&title_color=54A6FF&text_color=FFFFFF&icon_color=54A6FF" alt="Wakatime Stats"/>
+</div>
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/hoangtuanphong1a/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=project1&hide_border=true&theme=transparent&bg_color=0d1117&title_color=54A6FF&text_color=FFFFFF&icon_color=54A6FF" />
+  </a>
+  <a href="https://github.com/hoangtuanphong1a/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=project2&hide_border=true&theme=transparent&bg_color=0d1117&title_color=54A6FF&text_color=FFFFFF&icon_color=54A6FF" />
+  </a>
+</div>
+
+### 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoangtuanphong1a&theme=react-dark&hide_border=true&bg_color=0d1117&color=54A6FF&line=54A6FF&point=54A6FF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
-<div align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
-</details>
-
-<h2>🏆 GitHub Trophies</h2>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangtuanphong1a&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
-</div>
-
-<h2>📈 Contribution Graph</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangtuanphong1a&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
-<h2>🌐 Connect with me</h2>
-<div align="center">
-    <a href="https://fb.com/tuan.phong.16718" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://instagram.com/tuan.phong.16718" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:hoangtuanphong1a@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/hoangtuanphong1a" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+create+something+amazing!" alt="Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+fork+and+star+%E2%AD%90;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer"/>
 </div>
