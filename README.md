@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif">
 
 ### 👨‍💻 About Me
 
