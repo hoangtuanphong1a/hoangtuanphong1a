@@ -79,7 +79,7 @@ const phong: Developer = {
     motto: "Code for impact, design for users 💡"
 };
 ```
-![z6022318320756_912b10babdaae17569229cf9fcc68d02](https://github.com/user-attachments/assets/d3628144-b5d1-4b2d-81ef-003e84eda775)
+![z6022327743185_1d531cbdb8712aaacc62503a0578502b](https://github.com/user-attachments/assets/61dcdc7e-0b26-44a1-81a2-e13cf573860b)
 
 ### 🌟 Professional Highlights
 
