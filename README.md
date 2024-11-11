@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Hoang Tuan Phong 👋</h1>
+![image](https://github.com/user-attachments/assets/99c1c28f-ed76-46c4-9416-12d7ca65b0ae)<h1 align="center">Hi there! I'm Hoang Tuan Phong 👋</h1>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </h3>
@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Main coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif)">
 
 ### 👨‍💻 About Me
 
