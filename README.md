@@ -1,8 +1,11 @@
-![z6022280864513_7cef058b8a93a7541faa626a36263da4](https://github.com/user-attachments/assets/3b9e48ff-e37e-45ec-8be4-22766b45edd2)
+![z6022280864513_7cef058b8a93a7541faa626a36263da4](https://github.com/user-attachments/assets/afe81266-88b9-4222-b221-391ce1a15794)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
-![z6021937960642_ccc0a31508293ea4df395da36796b8bb](https://github.com/user-attachments/assets/14f67e7b-e13f-48f8-8266-b63b21e2c3e0)
+
+![z6021937960641_a90eb813404eb852ca5325538791dbd1](https://github.com/user-attachments/assets/eba319d1-b689-48a6-87e5-a12b9c639395)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer+%F0%9F%92%BB;4%2B+years+of+coding+experience+%E2%8C%A8;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </p>
