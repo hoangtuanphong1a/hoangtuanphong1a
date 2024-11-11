@@ -1,10 +1,9 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="blob:https://www.facebook.com/38f9d456-7021-443c-96eb-8947a7a01332" alt="image" width="800" style="max-width: 100%; margin: 20px 0;"/>
+  <img src="https://via.placeholder.com/800x400.png?text=Your+Image+Here" alt="Profile Image" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
 
 <p align="center">
