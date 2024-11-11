@@ -1,4 +1,11 @@
 <div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
+<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
+<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
+<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
+<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
+<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
