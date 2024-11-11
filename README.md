@@ -1,9 +1,10 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="blob:https://www.facebook.com/38f9d456-7021-443c-96eb-8947a7a01332" alt="Profile Image" width="800" style="max-width: 100%; margin: 20px 0;"/>
+  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
 
 <p align="center">
@@ -153,6 +154,11 @@ const phong: Developer = {
 - [ ] Write 20 technical blog posts
 - [ ] Achieve AWS Solutions Architect certification
 - [ ] Master microservices architecture
+
+
+<div align="center">
+  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+fork+and+star+%E2%AD%90;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer"/>
