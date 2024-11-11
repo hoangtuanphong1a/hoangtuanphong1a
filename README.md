@@ -33,11 +33,11 @@
 
 <div class="slider">
     <div class="slides">
-        <div class="slide"><img src="https://example.com/image1.jpg" alt="Image 1" width="800"></div>
-        <div class="slide"><img src="https://example.com/image2.jpg" alt="Image 2" width="800"></div>
-        <div class="slide"><img src="https://example.com/image3.jpg" alt="Image 3" width="800"></div>
-        <div class="slide"><img src="https://example.com/image4.jpg" alt="Image 4" width="800"></div>
-        <div class="slide"><img src="https://example.com/image5.jpg" alt="Image 5" width="800"></div>
+        <div class="slide"><img src="[https://example.com/image1.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIN89Hu35dy_NGJUT4Fu4zMM5dGVQ11xhNA&s)" alt="Image 1" width="800"></div>
+        <div class="slide"><img src="[https://example.com/image2.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIN89Hu35dy_NGJUT4Fu4zMM5dGVQ11xhNA&s)" alt="Image 2" width="800"></div>
+        <div class="slide"><img src="[https://example.com/image3.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIN89Hu35dy_NGJUT4Fu4zMM5dGVQ11xhNA&s)" alt="Image 3" width="800"></div>
+        <div class="slide"><img src="[https://example.com/image4.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIN89Hu35dy_NGJUT4Fu4zMM5dGVQ11xhNA&s)" alt="Image 4" width="800"></div>
+        <div class="slide"><img src="[https://example.com/image5.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIN89Hu35dy_NGJUT4Fu4zMM5dGVQ11xhNA&s)" alt="Image 5" width="800"></div>
     </div>
 </div>
 
