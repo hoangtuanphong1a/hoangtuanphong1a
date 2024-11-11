@@ -47,19 +47,19 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
-  <!-- Add more icons as needed -->
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🚀 Top Projects:
+### 🚀 Top Projects
 - [Project 1](https://github.com/yourusername/project1) - Brief description of the project
 - [Project 2](https://github.com/yourusername/project2) - Brief description of the project
 
@@ -70,4 +70,4 @@ I'm constantly exploring and building new things. Keep an eye on my GitHub for m
 
 ---
 
-Thanks for visiting! 😊
+<p align="center">Thanks for visiting! 😊</p>
