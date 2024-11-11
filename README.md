@@ -79,6 +79,7 @@ const phong: Developer = {
     motto: "Code for impact, design for users 💡"
 };
 ```
+![z6021937960640_85c2223efe63952b3559909e4e6d4449](https://github.com/user-attachments/assets/f58b2fd6-b276-477e-b921-eba7459da7b8)
 
 ### 🌟 Professional Highlights
 
@@ -87,6 +88,7 @@ const phong: Developer = {
 - 👯 Looking to collaborate on: **Open source projects**
 - 💬 Ask me about: **React, TypeScript, Performance Optimization**
 - 📚 Writing tech articles on: [Dev.to](https://dev.to/yourprofile)
+
 
 ### 📈 GitHub Analytics
 
