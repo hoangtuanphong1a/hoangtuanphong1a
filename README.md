@@ -40,20 +40,6 @@
         <div class="slide"><img src="[https://example.com/image5.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIN89Hu35dy_NGJUT4Fu4zMM5dGVQ11xhNA&s)" alt="Image 5" width="800"></div>
     </div>
 </div>
-
-<script>
-    let currentIndex = 0;
-    const slides = document.querySelector('.slides');
-    const totalSlides = document.querySelectorAll('.slide').length;
-
-    function showNextSlide() {
-        currentIndex = (currentIndex + 1) % totalSlides;
-        slides.style.transform = 'translateX(' + (-currentIndex * 800) + 'px)';
-    }
-
-    setInterval(showNextSlide, 3000); // Change slide every 3 seconds
-</script>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=for-the-badge&color=54A6FF" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=for-the-badge&color=54A6FF" alt="Followers" />
