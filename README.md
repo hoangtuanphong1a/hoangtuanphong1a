@@ -10,10 +10,8 @@
 
 <br/>
 
-<!-- Main AI/Robot GIF -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="600">
-</div>
+<!-- Main coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me
 
@@ -40,8 +38,8 @@ const phong = {
 };
 ```
 
-<!-- Cool divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/grad.gif" width="100%">
+<!-- Decorative divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Connect with me
 <div align="left">
@@ -56,6 +54,9 @@ const phong = {
     </a>
 </div>
 
+<!-- Tech animation -->
+<img align="right" alt="Technology Animation" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 ### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,9 +68,8 @@ const phong = {
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
-</div>
+<!-- Another decorative divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -81,9 +81,9 @@ const phong = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
-<!-- Cool cyberpunk/tech divider -->
+<!-- Coding snake animation -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/cyberpunk.gif" width="100%">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
 </div>
 
 ### 🏆 GitHub Trophies
@@ -106,8 +106,8 @@ const phong = {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangtuanphong1a&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<!-- Final cyberpunk divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/robot.gif" width="100%">
+<!-- Final decorative divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out+anytime!" alt="Footer"/>
