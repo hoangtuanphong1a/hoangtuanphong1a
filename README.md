@@ -1,4 +1,5 @@
-![hinh1](https://github.com/user-attachments/assets/14f67e7b-e13f-48f8-8266-b63b21e2c3e0)
+![hinh1](https://github.com/user-attachments/assets/7e7c9f89-aa47-45b0-a152-02f5d603938f)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
