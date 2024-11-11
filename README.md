@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="blob:https://www.facebook.com/38f9d456-7021-443c-96eb-8947a7a01332" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
+  <img src="blob:https://www.facebook.com/38f9d456-7021-443c-96eb-8947a7a01332" alt="image" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
 
 <p align="center">
