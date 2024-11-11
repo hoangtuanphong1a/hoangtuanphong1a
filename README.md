@@ -1,12 +1,74 @@
-<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
-<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
-<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
-<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
-<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
-<div class="slide"><img src="https://yourusername.github.io/repository-name/images/myimage.jpg" alt="Image 1" width="800"></div>
-
-
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      @keyframes slide {
+        0%, 25% { transform: translateX(0); }
+        33.33%, 58.33% { transform: translateX(-800px); }
+        66.66%, 91.66% { transform: translateX(-1600px); }
+        100% { transform: translateX(0); }
+      }
+      .slideContainer {
+        animation: slide 15s infinite linear;
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0d1117"/>
+  
+  <!-- Clip path for the viewport -->
+  <clipPath id="viewport">
+    <rect width="800" height="400"/>
+  </clipPath>
+  
+  <!-- Slides container -->
+  <g class="slideContainer" clip-path="url(#viewport)">
+    <!-- Slide 1 -->
+    <g transform="translate(0,0)">
+      <image 
+        href="data:image/svg+xml,
+        %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 400'%3E
+          %3Crect width='800' height='400' fill='%23673ab7'/%3E
+          %3Ctext x='400' y='200' font-family='Arial' font-size='48' fill='white' text-anchor='middle'%3E
+            I'm Hoang Tuan Phong
+          %3C/text%3E
+        %3C/svg%3E"
+        width="800" height="400"
+      />
+    </g>
+    
+    <!-- Slide 2 -->
+    <g transform="translate(800,0)">
+      <image 
+        href="data:image/svg+xml,
+        %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 400'%3E
+          %3Crect width='800' height='400' fill='%23512da8'/%3E
+          %3Ctext x='400' y='150' font-family='Arial' font-size='40' fill='white' text-anchor='middle'%3E
+            CAREER GOALS
+          %3C/text%3E
+          %3Ctext x='400' y='220' font-family='Arial' font-size='20' fill='white' text-anchor='middle'%3E
+            Frontend Developer | Creative Technologist
+          %3C/text%3E
+        %3C/svg%3E"
+        width="800" height="400"
+      />
+    </g>
+    
+    <!-- Slide 3 -->
+    <g transform="translate(1600,0)">
+      <image 
+        href="data:image/svg+xml,
+        %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 400'%3E
+          %3Crect width='800' height='400' fill='%234527a0'/%3E
+          %3Ctext x='400' y='200' font-family='Arial' font-size='32' fill='white' text-anchor='middle'%3E
+            Welcome to my Profile
+          %3C/text%3E
+        %3C/svg%3E"
+        width="800" height="400"
+      />
+    </g>
+  </g>
+</svg>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
