@@ -1,73 +1,100 @@
-<h1 align="center">Hi 👋, I'm HoangTuanPhong</h1>
-<h3 align="center">A passionate frontend developer from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi there! I'm Hoang Tuan Phong 👋</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+</h3>
 
----
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/hoangtuanphong1a?label=Followers&style=social" alt="followers" />
+</div>
+
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Advanced Java, Spring MVC, Flutter, and more!**
-- 💬 Ask me about **JavaScript, React, Node.js, and Python**
-- 📫 How to reach me **[Your Email Address]**
-- ⚡ Fun fact: I love to explore new technologies and build innovative solutions.
 
----
+```javascript
+const phong = {
+    location: "Vietnam 🇻🇳",
+    currentFocus: "Advanced Java, Spring MVC, Flutter",
+    code: ["JavaScript", "React", "Node.js", "Python"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Bootstrap", "Tailwind CSS", "SASS"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            java: ["Spring Boot", "Spring MVC"]
+        },
+        mobile: ["Flutter"],
+        databases: ["MongoDB", "MySQL"],
+    },
+    currentLearning: "Expanding my full-stack capabilities",
+    funFact: "I debug with console.log and refuse to use a debugger 😅"
+};
+```
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tuan.phong.16718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/tuan.phong.16718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<br/>
 
----
+### 🌐 Connect with me
+<div align="left">
+    <a href="https://fb.com/tuan.phong.16718" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://instagram.com/tuan.phong.16718" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:[Your Email]">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
-</p>
-
----
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuanphong1a&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangtuanphong1a&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+### 🚀 Featured Projects
+<div align="center">
+    <a href="https://github.com/yourusername/project1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+    </a>
+    <a href="https://github.com/yourusername/project2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+    </a>
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangtuanphong1a&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
-### 🚀 Top Projects
-- [Project 1](https://github.com/yourusername/project1) - Brief description of the project
-- [Project 2](https://github.com/yourusername/project2) - Brief description of the project
-
----
-
-### 💡 Fun Projects & Ideas
-I'm constantly exploring and building new things. Keep an eye on my GitHub for more!
-
----
-
-<p align="center">Thanks for visiting! 😊</p>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out+anytime!" alt="Footer"/>
+</div>
