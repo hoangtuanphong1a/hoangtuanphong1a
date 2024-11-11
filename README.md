@@ -1,51 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1">
-        <animate attributeName="stop-color" values="#9c27b0; #673ab7; #9c27b0" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" style="stop-color:#673ab7;stop-opacity:1">
-        <animate attributeName="stop-color" values="#673ab7; #9c27b0; #673ab7" dur="8s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-    <clipPath id="roundedRect">
-      <rect x="0" y="0" width="1200" height="400" rx="10" ry="10" />
-    </clipPath>
-  </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="400" fill="url(#gradient)" clip-path="url(#roundedRect)" />
-
-  <!-- Text Animations -->
-  <g id="text1" opacity="1">
-    <text x="600" y="200" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">
-      I'm Hoang Tuan Phong
-      <animate attributeName="opacity" values="1;0;1" dur="8s" repeatCount="indefinite" />
-    </text>
-  </g>
-
-  <g id="text2" opacity="0">
-    <text x="150" y="150" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">
-      CAREER GOALS
-      <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite" />
-    </text>
-    <text x="150" y="250" font-family="Arial, sans-serif" font-size="24" fill="white" width="400">
-      <tspan x="150" dy="0">Tôi mong muốn được tham gia vào các dự án</tspan>
-      <tspan x="150" dy="30">công nghệ sáng tạo, giải quyết những thách thức</tspan>
-      <tspan x="150" dy="30">trong lập trình, và không ngừng học hỏi để phát</tspan>
-      <tspan x="150" dy="30">triển trong lĩnh vực công nghệ thông tin.</tspan>
-      <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite" />
-    </text>
-  </g>
-
-  <!-- Decorative Elements -->
-  <circle cx="1100" cy="300" r="80" fill="url(#gradient)" opacity="0.3">
-    <animate attributeName="r" values="80;100;80" dur="4s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="100" cy="100" r="60" fill="url(#gradient)" opacity="0.3">
-    <animate attributeName="r" values="60;80;60" dur="4s" repeatCount="indefinite" />
-  </circle>
-</svg>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
@@ -203,5 +156,5 @@ const phong: Developer = {
 - [ ] Master microservices architecture
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+fork+and+star+%E2%AD%90;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer"/>
+  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
