@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
+  <img src="https://via.placeholder.com/800x400.png?text=Your+Image+Here" alt="Profile Image" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
 
 <p align="center">
