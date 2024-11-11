@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="![z6021937960641_a90eb813404eb852ca5325538791dbd1](https://github.com/user-attachments/assets/4dcde221-2a2b-4d94-81a9-d674f110e3c2)
-" alt="Image" width="800" style="max-width: 100%; margin: 20px 0;"/>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer+%F0%9F%92%BB;4%2B+years+of+coding+experience+%E2%8C%A8;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 </p>
