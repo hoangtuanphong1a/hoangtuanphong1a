@@ -156,5 +156,5 @@ const phong: Developer = {
 - [ ] Master microservices architecture
 
 <div align="center">
-  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+fork+and+star+%E2%AD%90;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer"/>
 </div>
