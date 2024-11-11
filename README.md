@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Hoang+Tuan+Phong" alt="Typing SVG" />
 </h1>
 
+<!-- Animated line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Developer Animation -->
+<div align="right">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" alt="Coding Animation">
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;4%2B+years+of+coding+experience+%E2%8C%A8;Always+learning+new+things+%F0%9F%8C%B1;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
@@ -30,10 +38,7 @@
 
 <br/>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&count_private=true&hide_border=true&title_color=54A6FF&icon_color=54A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Hoang Tuan Phong's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&hide_border=true&theme=transparent&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=FFFFFF" alt="Streak stats" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💫 About Me:
 ```typescript
@@ -66,6 +71,24 @@ const phong: Developer = {
 };
 ```
 
+<div align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Developer GIF">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hoangtuanphong1a&show_icons=true&count_private=true&hide_border=true&title_color=54A6FF&icon_color=54A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Hoang Tuan Phong's github stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuanphong1a&hide_border=true&theme=transparent&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=FFFFFF" alt="Streak stats" />
+</p>
+
+<!-- Tech Animation -->
+<div align="left">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Tech Animation">
+</div>
+
 ### 🛠️ Technologies & Tools
 
 <div align="center">
@@ -73,9 +96,16 @@ const phong: Developer = {
   <img src="https://skillicons.dev/icons?i=git,docker,jest,figma,vscode,idea,postman,nginx,redux" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 📊 This Week I Spent My Time On:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hoangtuanphong1a&hide_border=true&theme=transparent&bg_color=0d1117&title_color=54A6FF&text_color=FFFFFF&icon_color=54A6FF" alt="Wakatime Stats"/>
+</div>
+
+<!-- Coding Animation -->
+<div align="right">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150" alt="Coding Animation">
 </div>
 
 ### 🌟 Featured Projects
@@ -89,13 +119,24 @@ const phong: Developer = {
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoangtuanphong1a&theme=react-dark&hide_border=true&bg_color=0d1117&color=54A6FF&line=54A6FF&point=54A6FF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Matrix Animation -->
+<div align="left">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Matrix Animation">
+</div>
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="100" alt="Git Animation">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=54A6FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+fork+and+star+%E2%AD%90;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer"/>
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="100" alt="Git Animation">
 </div>
