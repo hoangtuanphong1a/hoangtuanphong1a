@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="![z6021937960641_a90eb813404eb852ca5325538791dbd1](https://github.com/user-attachments/assets/4dcde221-2a2b-4d94-81a9-d674f110e3c2)
-" alt="Profile Image" width="800" style="max-width: 100%; margin: 20px 0;"/>
+" alt="Image" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
 
 <p align="center">
