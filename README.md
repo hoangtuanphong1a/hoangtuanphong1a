@@ -68,7 +68,7 @@ const phong = {
 ```
 <div align="center">
   <h2>💻 Tech Stack</h2>
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="center">Languages and Tools:</h3>
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <!-- Row 1 -->
     <div style="display: flex; justify-content: flex-start; gap: 10px;">
