@@ -66,7 +66,6 @@ const phong = {
   ]
 };
 ```
-
 <div align="center">
   <h2>💻 Tech Stack</h2>
   <h3 align="left">Languages and Tools:</h3>
@@ -92,8 +91,6 @@ const phong = {
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a>
     </div>
-
-    <!-- Row 2 -->
     <div style="display: flex; justify-content: flex-start; gap: 10px;">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -114,8 +111,6 @@ const phong = {
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       </a>
     </div>
-
-    <!-- Row 3 -->
     <div style="display: flex; justify-content: flex-start; gap: 10px;">
       <a href="https://pugjs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
