@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer+%F0%9F%92%BB;4%2B+Years+of+Development+Journey+%E2%8C%A8;Passionate+about+Clean+Code+%F0%9F%8C%9F;From+Vietnam+with+%E2%9D%A4%EF%B8%8F" alt="Bio"/>
 </div>
 
+![z6022280864513_7cef058b8a93a7541faa626a36263da4](https://github.com/user-attachments/assets/afe81266-88b9-4222-b221-391ce1a15794)
+
 <div align="center">
   <a href="https://github.com/hoangtuanphong1a" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=54A6FF"/>
