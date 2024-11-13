@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=600&height=70&lines=Hello%20World!%20%F0%9F%91%8B;Welcome%20to%20my%20Profile!" alt="Greeting"/>
 </h1>
@@ -215,4 +211,8 @@ mindmap
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer"/>
+</div>
+
+<div align="center">
+  <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
