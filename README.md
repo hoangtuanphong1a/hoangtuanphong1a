@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=54A6FF&height=200&section=header&text=Hoang%20Tuan%20Phong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://cdn.baoquocte.vn/stores/news_dataimages/minhhoa/012020/03/10/in_article/nhung-cong-nghe-ngu-tri-nam-2020.gif" alt="Technology GIF" width="800" style="max-width: 100%; margin: 20px 0;"/>
 </div>
 
@@ -215,10 +211,6 @@ mindmap
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=54A6FF&height=150&section=footer" width="100%"/>
 </div>
 
 <div align="center">
