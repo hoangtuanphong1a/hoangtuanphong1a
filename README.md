@@ -40,33 +40,74 @@
 
 ```javascript
 const phong = {
-  title: "Senior Frontend Developer",
+  title: "Final-year IT Student | Aspiring Software Engineer",
   location: "Vietnam 🇻🇳",
-  experience: "4+ years",
-  education: "Computer Science Graduate 🎓",
+  status: "Final-year student (Graduation Project)",
   
-  expertise: {
-    frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-    backend: ["Node.js", "NestJS", "Spring Boot"],
-    mobile: ["React Native", "Flutter"],
-    cloud: ["AWS", "GCP", "Firebase"],
-    devOps: ["Docker", "K8s", "CI/CD"],
-    architecture: ["Microservices", "Event-Driven", "DDD"]
-  },
-  
-  certifications: [
-    "AWS Certified Developer - Associate",
-    "Meta Frontend Developer",
-    "Google UX Design"
+  focus: [
+    "Web Application Development",
+    "AI-integrated Systems (Chatbot, NLP)",
+    "Full-stack Project Implementation"
   ],
-  
-  passions: [
-    "Clean Architecture",
-    "Performance Optimization",
-    "User Experience",
-    "Open Source"
+
+  skills: {
+    frontend: [
+      "ReactJS",
+      "Next.js",
+      "TailwindCSS",
+      "TypeScript",
+      "React-Bootstrap"
+    ],
+    backend: [
+      "Node.js",
+      "NestJS",
+      "Spring Boot",
+      "Django (REST Framework)"
+    ],
+    database: [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    devOps: [
+      "Docker",
+      "Docker Compose",
+      "GitHub Actions (CI/CD)"
+    ],
+    cloud_tools: [
+      "Firebase",
+      "Vercel"
+    ],
+    fundamentals: [
+      "OOP",
+      "RESTful API Design",
+      "Clean Code",
+      "Basic System Design"
+    ]
+  },
+
+  projects: [
+    {
+      name: "B2C Sales Platform with AI Chatbot",
+      description: "Full-stack web application integrating an AI chatbot for automated customer support and product consultation."
+    },
+    {
+      name: "AI-powered Personalized IELTS Learning System",
+      description: "Web-based platform using AI/NLP to personalize IELTS practice and learning paths for individual users."
+    },
+    {
+      name: "Task & Coffee Shop Management Systems",
+      description: "Management systems built with React and backend APIs for task tracking, role-based access, and table management."
+    }
+  ],
+
+  mindset: [
+    "Learn by building real projects",
+    "Focus on practical problem-solving",
+    "Continuously improve technical and soft skills"
   ]
 };
+
 ```
 <div align="center">
   <h2>💻 Tech Stack</h2>
