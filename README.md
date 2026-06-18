@@ -63,7 +63,7 @@ const phong = {
 <!-- ============================ TECH STACK (bento + skillicons) ============================ -->
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>💻 Languages</h3>
@@ -158,7 +158,7 @@ timeline
 <!-- ============================ PROJECTS ============================ -->
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 B2C Sales Platform + AI Chatbot</h3>
