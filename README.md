@@ -65,43 +65,39 @@ const phong = {
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>💻 Languages</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&perline=3" alt="Languages"/>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&perline=3" alt="Languages"/>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>⚙️ Backend</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=spring,hibernate,nestjs,express,nodejs,django,fastapi&perline=3" alt="Backend"/>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,nestjs,express,nodejs,django,fastapi&perline=3" alt="Backend"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>🎨 Frontend</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind&perline=3" alt="Frontend"/>
+      <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind&perline=3" alt="Frontend"/>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>📱 Mobile</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile"/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>🗄️ Database</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=3" alt="Database"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=3" alt="Database"/>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>🤖 AI / ML</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&perline=3" alt="AI / ML"/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&perline=3" alt="AI / ML"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 DevOps &amp; Cloud</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,linux&perline=3" alt="DevOps & Cloud"/>
+    <td width="25%" valign="top" align="center">
+      <h3>🚀 DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,linux&perline=3" alt="DevOps & Cloud"/>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <h3>🧰 Tools</h3>
-      <img width="80%" src="https://skillicons.dev/icons?i=vscode,idea,postman,notion&perline=3" alt="Tools"/>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,notion&perline=3" alt="Tools"/>
     </td>
   </tr>
 </table>
