@@ -5,7 +5,7 @@
 <!-- ============================ GLOBE HERO (GIF) ============================ -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5aed6d1-352b-4a1d-a4c9-64c5ed04a10e" width="100%" alt="Global Network"/>
+  <img src="./global-network.gif" width="100%" alt="Global Network"/>
 </p>
 
 <!-- ============================ SOCIALS ============================ -->
