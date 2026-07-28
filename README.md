@@ -173,6 +173,7 @@ timeline
     2024 : Backend & DevOps : NestJS · Docker
     2025 : AI Integration : Django · NLP · Chatbot
     2026 : Graduated : Software Developer — Full-stack + AI
+         : iMBrace Limited : AI Agents · SDK · Workflow Automation
 ```
 
 <!-- ============================ PROJECTS ============================ -->
@@ -180,6 +181,26 @@ timeline
 ## Featured Projects
 
 <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Invoice Extraction Agent</h3>
+      <p>AI agent trích xuất dữ liệu hoá đơn &amp; tự động hoá document schema.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Agent-7E57C2?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Agent SDK &amp; Workflow Automation</h3>
+      <p>SDK cho AI agent và các luồng workflow automation, kèm backend API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>B2C Sales Platform + AI Chatbot</h3>
