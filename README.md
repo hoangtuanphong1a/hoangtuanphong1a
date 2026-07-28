@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Full-stack+%26+AI;Backend+%2B+Frontend+%2B+AI+Integration;Based+in+Vietnam" alt="Bio"/>
 </div>
 
-<!-- ============================ GLOBE HERO (GIF) ============================ -->
+<!-- ============================ INTRO (GIF) ============================ -->
 
 <p align="center">
-  <img src="./global-network.gif" width="100%" alt="Global Network"/>
+  <img src="./intro.gif" width="100%" alt="Hoang Tuan Phong - Software Developer"/>
 </p>
 
 <!-- ============================ SOCIALS ============================ -->
