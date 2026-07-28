@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="989px" height="756px" font-size="13px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #57606a;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="989px" height="756px" fill="#ffffff" rx="15"/>
+<text x="15" y="26" fill="#24292f" class="ascii">
+<tspan x="15" y="106">                              @@@@</tspan>
+<tspan x="15" y="122">                      @@ @@@@@@@@@@@</tspan>
+<tspan x="15" y="138">              @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="154">             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="170">         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="186">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="202">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="218">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="234">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="250">  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="266">   @@@@@@@@@@@@@@@@@@@@@@b@##@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="282">  @@@@@@@@@@@@@@@@@%#bQ8@WZpZ0M@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="298">  @@@@@@@@@@@@@@@@@B&amp;#*B@8Or(/nOb@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="314">  @@@@@@@@@@@@@@@$O0bM@&amp;ZJf}-[fUh@@@W&amp;&amp;@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="330">  @@@@@@@@@@@@%kn?;^'!1\j(~""_xwOf?li[|za@@@@@@@@@@@@</tspan>
+<tspan x="15" y="346">   @@@@@@@@@@@c1\uXChBpX_I'  ,jc-up%8phkwd%@@@@@@@@@</tspan>
+<tspan x="15" y="362">   @@@@@@@@@@/i;~)){nt&gt;"      +)l`;[1|nnrx0@@@@@@@@</tspan>
+<tspan x="15" y="378">     @@@@@@@0il`              '}?      .i)Xh@@@@@@@</tspan>
+<tspan x="15" y="394">      @@@@@@0~!^          '^  !)~,     "+|Yb@@@@@@</tspan>
+<tspan x="15" y="410">       @@U[&amp;B[&gt;,        iz$ZrQ@@0u`   'l[rUo@$@@@</tspan>
+<tspan x="15" y="426">        @c&gt;Uwx_:'        {: I_[uQu:  .,~)uQB#0@@</tspan>
+<tspan x="15" y="442">         $l,&lt;x}!`          `, 'iI'   'l-|umqnm@</tspan>
+<tspan x="15" y="458">          Z{}Y}&gt;,.    .![uYCCmqZOY{I",&lt;1jYd@@@</tspan>
+<tspan x="15" y="474">           @@@c~!:'   :{rt1-{{{fYO\l,!{jzQ@@@</tspan>
+<tspan x="15" y="490">            @@@r?~&gt;l,'  `&gt;1uXUUXx}i!+)rYO#@@</tspan>
+<tspan x="15" y="506">             @@@cj{?+I::,",,`^;l&gt;~[)rzCq@@@</tspan>
+<tspan x="15" y="522">              @@zYJvj1~;'    '':&lt;[|zOpoM@</tspan>
+<tspan x="15" y="538">                /[jXUUXj1?_]{1(fnXOdh*a&amp;</tspan>
+<tspan x="15" y="554">                \l&gt;]\xcCQOqdqqdbkooohbZd</tspan>
+<tspan x="15" y="570">                ~!,;i]{1|nCpa&amp;&amp;&amp;&amp;*admCUX</tspan>
+<tspan x="15" y="586">                 &lt;. .,&lt;_?]{\uCOZmmQYnjC[</tspan>
+<tspan x="15" y="602">                      `I!!i~[\rczvt)|ti</tspan>
+<tspan x="15" y="618">                       .""":I&gt;?}}[]?I</tspan>
+<tspan x="15" y="634">                        ''`";IlII:</tspan>
+<tspan x="15" y="650">                          '`^"^</tspan>
+</text>
+<text x="475" y="26" fill="#24292f">
+<tspan x="475" y="26"><tspan>hoangtuanphong</tspan> -------------------------------------------------</tspan>
+<tspan x="475" y="42"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Windows 11, Ubuntu (WSL)</tspan></tspan>
+<tspan x="475" y="58"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................................. </tspan><tspan class="value" id="age_data">22 years</tspan></tspan>
+<tspan x="475" y="74"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">iMBrace Limited</tspan></tspan>
+<tspan x="475" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Software Developer Intern</tspan></tspan>
+<tspan x="475" y="106"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">VS Code, Cursor</tspan></tspan>
+<tspan x="475" y="122"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="138"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Python, TypeScript, JavaScript, SQL</tspan></tspan>
+<tspan x="475" y="154"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">HTML, CSS, JSON, REST API, Git, Docker</tspan></tspan>
+<tspan x="475" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Vietnamese, English</tspan></tspan>
+<tspan x="475" y="186"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="202"><tspan class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">FastAPI, Django, React, Node.js</tspan></tspan>
+<tspan x="475" y="218"><tspan class="cc">. </tspan><tspan class="key">Database</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">MySQL, PostgreSQL</tspan></tspan>
+<tspan x="475" y="234"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Git, GitHub, Docker, Postman, WSL</tspan></tspan>
+<tspan x="475" y="250"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="266"><tspan class="cc">. </tspan><tspan class="key">Current</tspan>.<tspan class="key">Focus</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">AI Agents</tspan></tspan>
+<tspan x="475" y="282"><tspan class="cc">. </tspan>                                               <tspan class="value">SDK Development</tspan></tspan>
+<tspan x="475" y="298"><tspan class="cc">. </tspan>                                           <tspan class="value">Backend Development</tspan></tspan>
+<tspan x="475" y="314"><tspan class="cc">. </tspan>                                           <tspan class="value">Workflow Automation</tspan></tspan>
+<tspan x="475" y="330"><tspan class="cc">. </tspan>                                    <tspan class="value">Document Schema Automation</tspan></tspan>
+<tspan x="475" y="346"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="362"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AI Agents, Backend Development,</tspan></tspan>
+<tspan x="475" y="378"><tspan class="cc">. </tspan>                        <tspan class="value">Open Source, Learning New Technologies</tspan></tspan>
+<tspan x="475" y="394"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">PC Building, Technology</tspan></tspan>
+<tspan x="475" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="426"><tspan>- Contact</tspan> ------------------------------------------------------</tspan>
+<tspan x="475" y="442"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">hoangtuanphong1a@gmail.com</tspan></tspan>
+<tspan x="475" y="458"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">hoangtuanphong.dev@gmail.com</tspan></tspan>
+<tspan x="475" y="474"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">in/hoàng-tuấn-phong-787846376</tspan></tspan>
+<tspan x="475" y="490"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">hoangtuanphong1a</tspan></tspan>
+<tspan x="475" y="506"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="522"><tspan>- GitHub Stats</tspan> -------------------------------------------------</tspan>
+<tspan x="475" y="538"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..................................................... </tspan><tspan class="value" id="repo_data">0</tspan></tspan>
+<tspan x="475" y="554"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................................................... </tspan><tspan class="value" id="commit_data">0</tspan></tspan>
+<tspan x="475" y="570"><tspan class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ..................................................... </tspan><tspan class="value" id="star_data">0</tspan></tspan>
+<tspan x="475" y="586"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ................................................. </tspan><tspan class="value" id="follower_data">0</tspan></tspan>
+<tspan x="475" y="602"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots"> ............................................. </tspan><tspan class="value" id="loc_data">0</tspan></tspan>
+<tspan x="475" y="618"><tspan class="cc">. </tspan></tspan>
+<tspan x="475" y="634"><tspan>- Currently Working On</tspan> -----------------------------------------</tspan>
+<tspan x="475" y="650"><tspan class="cc">. </tspan><tspan class="key">•</tspan> <tspan class="value">AI Agent Development</tspan></tspan>
+<tspan x="475" y="666"><tspan class="cc">. </tspan><tspan class="key">•</tspan> <tspan class="value">Invoice Extraction Agent</tspan></tspan>
+<tspan x="475" y="682"><tspan class="cc">. </tspan><tspan class="key">•</tspan> <tspan class="value">SDK Development</tspan></tspan>
+<tspan x="475" y="698"><tspan class="cc">. </tspan><tspan class="key">•</tspan> <tspan class="value">Document Schema Automation</tspan></tspan>
+<tspan x="475" y="714"><tspan class="cc">. </tspan><tspan class="key">•</tspan> <tspan class="value">Workflow Automation</tspan></tspan>
+<tspan x="475" y="730"><tspan class="cc">. </tspan><tspan class="key">•</tspan> <tspan class="value">Backend APIs</tspan></tspan>
+</text>
+</svg>
