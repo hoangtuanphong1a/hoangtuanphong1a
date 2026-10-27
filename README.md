@@ -24,22 +24,6 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 
 <br clear="left"/>
 
-<h3 align="center">A Bit More About Me</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li><b>Clean over clever</b> — readable code beats clever one-liners.</li>
-        <li><b>Design before code</b> — model the data and the flow first.</li>
-        <li><b>Ship &amp; iterate</b> — small commits, fast feedback loops.</li>
-        <li><b>Own the bug</b> — reproduce it, fix the root cause, add a guard.</li>
-        <li><b>Learn in public</b> — document, share, keep improving.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <a href="https://github.com/hoangtuanphong1a"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub"/></a>
   <a href="mailto:hoangtuanphong1a@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email"/></a>
