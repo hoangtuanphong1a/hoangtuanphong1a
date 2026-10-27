@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile-3d.yml", ".github/profile-3d-red.json"]
+    paths: [".github/workflows/profile-3d.yml", ".github/profile-3d-red.json", ".github/scripts/recolor-pie.py"]
 
 permissions:
   contents: write
@@ -22,6 +22,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-red.json
+      - name: Recolor language pie
+        run: python3 .github/scripts/recolor-pie.py profile-3d-contrib/profile-red.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions

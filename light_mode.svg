@@ -9,14 +9,14 @@ font-display: swap;
 size-adjust: 109%;
 }
 .key {fill: #df2531;}
-.value {fill: #ffffff;}
-.addColor {fill: #ff5c66;}
+.value {fill: #1f2328;}
+.addColor {fill: #df2531;}
 .delColor {fill: #911820;}
-.cc {fill: #6b6b6b;}
+.cc {fill: #8c959f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="989px" height="804px" fill="#000000" stroke="#df2531" stroke-opacity=".45" rx="15"/>
-<text x="15" y="26" fill="#d6d6d6" class="ascii">
+<rect width="989px" height="804px" fill="#ffffff" stroke="#df2531" stroke-width="2" rx="15"/>
+<text x="15" y="26" fill="#24292f" class="ascii">
 <tspan x="15" y="122">                              @@@@</tspan>
 <tspan x="15" y="138">                      @@ @@@@@@@@@@@</tspan>
 <tspan x="15" y="154">              @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -53,7 +53,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="650">                        ''`";IlII:</tspan>
 <tspan x="15" y="666">                          '`^"^</tspan>
 </text>
-<text x="475" y="26" fill="#d6d6d6">
+<text x="475" y="26" fill="#24292f">
 <tspan x="475" y="26"><tspan>hoangtuanphong</tspan> -------------------------------------------------</tspan>
 <tspan x="475" y="42"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Windows 11, Ubuntu (WSL)</tspan></tspan>
 <tspan x="475" y="58"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................................. </tspan><tspan class="value" id="age_data">22 years</tspan></tspan>
