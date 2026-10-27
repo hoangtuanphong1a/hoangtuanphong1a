@@ -8,18 +8,21 @@
 
 <h3 align="center">Who Am I?</h3>
 
-<table align="center">
-  <tr>
-    <td width="36%" align="center">
-      <img src="./assets/avatar.jpg" width="240" alt="Tuan Phong, anime portrait"/>
-    </td>
-    <td width="64%" valign="middle">
-      <p>IT graduate based in Vietnam, working as a <b>Software Developer (Full-stack &amp; AI)</b>.</p>
-      <p>Shipped projects with <b>Spring Boot, NestJS, Django, ReactJS &amp; Flutter</b>. Focused on <b>AI integration</b> — chatbots, recommendation systems &amp; NLP.</p>
-      <p>Currently sharpening <b>clean architecture, system design &amp; deployment</b>. Ask me about Backend, React, Docker, Firebase, or AI integration.</p>
-    </td>
-  </tr>
-</table>
+<img src="./assets/portrait.jpg" align="left" width="260" alt="Tuan Phong"/>
+
+<p align="justify">
+I am an IT graduate and a <b>Software Developer</b> focused on <b>Full-stack &amp; AI</b>, based in Vietnam. I like turning ideas into products that actually run, and I learn best by <b>shipping real projects</b> rather than only reading about them.
+</p>
+
+<p align="justify">
+Over time I have built and shipped projects with <code>Spring Boot</code>, <code>NestJS</code>, <code>Django</code>, <code>ReactJS</code> and <code>Flutter</code>, covering <b>backend APIs</b>, <b>web frontends</b> and <b>mobile apps</b>, backed by <code>MySQL</code> and <code>PostgreSQL</code>.
+</p>
+
+<p align="justify">
+Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow automation</b>, chatbots, recommendation systems and NLP. Alongside that I keep sharpening <b>clean architecture</b>, <b>system design</b> and <b>deployment</b> with <code>Docker</code>. Ask me about Backend, React, Docker, Firebase, or AI integration.
+</p>
+
+<br clear="left"/>
 
 <h3 align="center">A Bit More About Me</h3>
 
