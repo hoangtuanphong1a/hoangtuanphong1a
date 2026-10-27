@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="138" viewBox="0 0 1000 138" role="img" aria-label="Recent articles">
+<style>
+  .card{fill:#ffffff;stroke:#d0d7de}
+  .title{fill:#1f2328;font:600 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .desc{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .pill{font:600 11px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .row{fill:#1f2328;font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .date{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .rule{stroke:#d0d7de}
+  .icon{font:18px 'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif}
+  @media (prefers-color-scheme: dark){
+    .card{fill:#161b22;stroke:#30363d}
+    .title,.row{fill:#e6edf3}
+    .desc,.date{fill:#8b949e}
+    .rule{stroke:#30363d}
+  }
+</style>
+<text x="4" y="29" class="icon">📄</text>
+<text x="36" y="28" class="row">Building an Invoice Extraction Agent with LLMs</text>
+<text x="996" y="28" text-anchor="end" class="date">Coming soon</text>
+<line x1="0" y1="46" x2="1000" y2="46" class="rule"/>
+<text x="4" y="75" class="icon">📄</text>
+<text x="36" y="74" class="row">Designing an SDK for AI Agents &amp; Workflow Automation</text>
+<text x="996" y="74" text-anchor="end" class="date">Coming soon</text>
+<line x1="0" y1="92" x2="1000" y2="92" class="rule"/>
+<text x="4" y="121" class="icon">📄</text>
+<text x="36" y="120" class="row">From Graduate to Software Developer: Lessons from My First Year</text>
+<text x="996" y="120" text-anchor="end" class="date">Coming soon</text>
+</svg>

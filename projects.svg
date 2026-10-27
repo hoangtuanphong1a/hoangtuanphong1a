@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Featured projects">
+<style>
+  .card{fill:#ffffff;stroke:#d0d7de}
+  .title{fill:#1f2328;font:600 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .desc{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .pill{font:600 11px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .row{fill:#1f2328;font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .date{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .rule{stroke:#d0d7de}
+  .icon{font:18px 'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif}
+  @media (prefers-color-scheme: dark){
+    .card{fill:#161b22;stroke:#30363d}
+    .title,.row{fill:#e6edf3}
+    .desc,.date{fill:#8b949e}
+    .rule{stroke:#30363d}
+  }
+</style>
+<rect x="0.5" y="0.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="18.0" y="36" class="icon">🧾</text>
+<text x="48.0" y="35" class="title">Invoice Extraction Agent</text>
+<text x="18.0" y="66" class="desc">AI agent trích xuất dữ liệu hoá đơn &amp; tự động</text>
+<text x="18.0" y="85" class="desc">hoá document schema.</text>
+<rect x="18.0" y="136" width="58.8" height="22" rx="6" fill="#3776AB"/>
+<text x="47.4" y="151" text-anchor="middle" class="pill" fill="#fff">Python</text>
+<rect x="82.8" y="136" width="65.6" height="22" rx="6" fill="#009688"/>
+<text x="115.6" y="151" text-anchor="middle" class="pill" fill="#fff">FastAPI</text>
+<rect x="154.4" y="136" width="72.4" height="22" rx="6" fill="#7E57C2"/>
+<text x="190.6" y="151" text-anchor="middle" class="pill" fill="#fff">AI Agent</text>
+<rect x="339.2" y="0.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="356.6666666666667" y="36" class="icon">🤖</text>
+<text x="386.6666666666667" y="35" class="title">Agent SDK &amp; Workflow Automation</text>
+<text x="356.6666666666667" y="66" class="desc">SDK cho AI agent và các luồng workflow</text>
+<text x="356.6666666666667" y="85" class="desc">automation, kèm backend API.</text>
+<rect x="356.7" y="136" width="58.8" height="22" rx="6" fill="#3776AB"/>
+<text x="386.1" y="151" text-anchor="middle" class="pill" fill="#fff">Python</text>
+<rect x="421.5" y="136" width="65.6" height="22" rx="6" fill="#009688"/>
+<text x="454.3" y="151" text-anchor="middle" class="pill" fill="#fff">FastAPI</text>
+<rect x="493.1" y="136" width="58.8" height="22" rx="6" fill="#2496ED"/>
+<text x="522.5" y="151" text-anchor="middle" class="pill" fill="#fff">Docker</text>
+<rect x="677.8" y="0.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="695.3333333333334" y="36" class="icon">🛒</text>
+<text x="725.3333333333334" y="35" class="title">B2C Sales Platform + AI Chatbot</text>
+<text x="695.3333333333334" y="66" class="desc">Full-stack e-commerce với chatbot AI tư vấn &amp;</text>
+<text x="695.3333333333334" y="85" class="desc">hỗ trợ khách hàng tự động.</text>
+<rect x="695.3" y="136" width="58.8" height="22" rx="6" fill="#0C4B33"/>
+<text x="724.7" y="151" text-anchor="middle" class="pill" fill="#fff">Django</text>
+<rect x="760.1" y="136" width="52.0" height="22" rx="6" fill="#087EA4"/>
+<text x="786.1" y="151" text-anchor="middle" class="pill" fill="#fff">React</text>
+<rect x="818.1" y="136" width="52.0" height="22" rx="6" fill="#4479A1"/>
+<text x="844.1" y="151" text-anchor="middle" class="pill" fill="#fff">MySQL</text>
+<rect x="876.1" y="136" width="31.6" height="22" rx="6" fill="#7E57C2"/>
+<text x="891.9" y="151" text-anchor="middle" class="pill" fill="#fff">AI</text>
+<rect x="0.5" y="192.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="18.0" y="228" class="icon">📚</text>
+<text x="48.0" y="227" class="title">IELTS AI Learning System</text>
+<text x="18.0" y="258" class="desc">Nền tảng luyện thi IELTS cá nhân hóa bằng</text>
+<text x="18.0" y="277" class="desc">AI/NLP theo từng người học.</text>
+<rect x="18.0" y="328" width="58.8" height="22" rx="6" fill="#0C4B33"/>
+<text x="47.4" y="343" text-anchor="middle" class="pill" fill="#fff">Django</text>
+<rect x="82.8" y="328" width="52.0" height="22" rx="6" fill="#087EA4"/>
+<text x="108.8" y="343" text-anchor="middle" class="pill" fill="#fff">React</text>
+<rect x="140.8" y="328" width="38.4" height="22" rx="6" fill="#4B8BBE"/>
+<text x="160.0" y="343" text-anchor="middle" class="pill" fill="#fff">NLP</text>
+<rect x="185.2" y="328" width="126.8" height="22" rx="6" fill="#FF6F00"/>
+<text x="248.6" y="343" text-anchor="middle" class="pill" fill="#fff">Machine Learning</text>
+<rect x="339.2" y="192.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="356.6666666666667" y="228" class="icon">✅</text>
+<text x="386.6666666666667" y="227" class="title">Task Management System</text>
+<text x="356.6666666666667" y="258" class="desc">Quản lý công việc: task CRUD, checklist,</text>
+<text x="356.6666666666667" y="277" class="desc">attachment, deadline, priority &amp; gán thành</text>
+<text x="356.6666666666667" y="296" class="desc">viên.</text>
+<rect x="356.7" y="328" width="58.8" height="22" rx="6" fill="#E0234E"/>
+<text x="386.1" y="343" text-anchor="middle" class="pill" fill="#fff">NestJS</text>
+<rect x="421.5" y="328" width="52.0" height="22" rx="6" fill="#087EA4"/>
+<text x="447.5" y="343" text-anchor="middle" class="pill" fill="#fff">React</text>
+<rect x="677.8" y="192.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="695.3333333333334" y="228" class="icon">☕</text>
+<text x="725.3333333333334" y="227" class="title">Coffee Shop Management</text>
+<text x="695.3333333333334" y="258" class="desc">Hệ thống quản lý quán: đăng nhập, quản lý bàn,</text>
+<text x="695.3333333333334" y="277" class="desc">người dùng &amp; phân quyền.</text>
+<rect x="695.3" y="328" width="92.8" height="22" rx="6" fill="#6DB33F"/>
+<text x="741.7" y="343" text-anchor="middle" class="pill" fill="#fff">Spring Boot</text>
+<rect x="794.1" y="328" width="52.0" height="22" rx="6" fill="#087EA4"/>
+<text x="820.1" y="343" text-anchor="middle" class="pill" fill="#fff">React</text>
+<rect x="852.1" y="328" width="58.8" height="22" rx="6" fill="#2496ED"/>
+<text x="881.5" y="343" text-anchor="middle" class="pill" fill="#fff">Docker</text>
+<rect x="916.9" y="328" width="52.0" height="22" rx="6" fill="#4479A1"/>
+<text x="942.9" y="343" text-anchor="middle" class="pill" fill="#fff">MySQL</text>
+<rect x="0.5" y="384.5" width="321.7" height="175" rx="10" class="card"/>
+<text x="18.0" y="420" class="icon">📱</text>
+<text x="48.0" y="419" class="title">Facebook Clone (Flutter)</text>
+<text x="18.0" y="450" class="desc">Social app: post, story, like, comment,</text>
+<text x="18.0" y="469" class="desc">notification &amp; birthday events.</text>
+<rect x="18.0" y="520" width="65.6" height="22" rx="6" fill="#02569B"/>
+<text x="50.8" y="535" text-anchor="middle" class="pill" fill="#fff">Flutter</text>
+<rect x="89.6" y="520" width="72.4" height="22" rx="6" fill="#FFCA28"/>
+<text x="125.8" y="535" text-anchor="middle" class="pill" fill="#1f2328">Firebase</text>
+<rect x="339.2" y="384.5" width="660.3" height="175" rx="10" class="card"/>
+<text x="356.6666666666667" y="420" class="icon">💪</text>
+<text x="386.6666666666667" y="419" class="title">Current Strengths</text>
+<text x="356.6666666666667" y="450" class="desc">Full-stack Web (Spring Boot · NestJS · Django)</text>
+<text x="356.6666666666667" y="469" class="desc">React Frontend &amp; Database Design</text>
+<text x="356.6666666666667" y="488" class="desc">Docker &amp; Deployment · Firebase</text>
+<text x="356.6666666666667" y="507" class="desc">AI Integration · Agile Workflow</text>
+</svg>
