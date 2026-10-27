@@ -4,12 +4,6 @@
   <img src="./assets/hero.jpg" width="100%" alt="Tuan Phong - Backend Developer, Full-stack &amp; AI Integration"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=for-the-badge&color=df2531&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/stars/hoangtuanphong1a?affiliations=OWNER&style=for-the-badge&color=df2531&labelColor=000000&logo=github&logoColor=white" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=for-the-badge&color=df2531&labelColor=000000&logo=github&logoColor=white" alt="Followers"/>
-</p>
-
 <!-- ============================ ABOUT ============================ -->
 
 <h3 align="center">Who Am I?</h3>
