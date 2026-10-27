@@ -34,16 +34,32 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 </p>
 
 
-<!-- ============================ GITHUB STATUS ============================ -->
+<!-- ============================ TECH STACK ============================ -->
 
-<h3 align="center">GitHub Status</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hoangtuanphong1a&hide_border=false&border=64101a&background=000000&stroke=df2531&ring=df2531&fire=df2531&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=df2531&sideLabels=ffffff&dates=8a8a8a" alt="GitHub streak"/>
-</p>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-red.svg" width="100%" alt="3D contribution graph"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=df2531" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=df2531" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=df2531" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=df2531" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=df2531" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=df2531" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=df2531" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=df2531" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=df2531" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=df2531" alt="React"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=df2531" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=df2531" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=df2531" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=df2531" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=df2531" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=df2531" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=df2531" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=df2531" alt="Linux"/>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=df2531" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=df2531" alt="TensorFlow"/>
 </p>
 
 <!-- ============================ STACKS ============================ -->
