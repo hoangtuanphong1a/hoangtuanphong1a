@@ -182,29 +182,27 @@ timeline
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Invoice Extraction Agent</h3>
-      <p>AI agent trích xuất dữ liệu hoá đơn &amp; tự động hoá document schema.</p>
+    <td width="33%" valign="top">
+      <h4>🧾 Invoice Extraction Agent</h4>
+      <sub>AI agent trích xuất dữ liệu hoá đơn &amp; tự động hoá document schema.</sub>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI_Agent-7E57C2?style=flat-square"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Agent SDK &amp; Workflow Automation</h3>
-      <p>SDK cho AI agent và các luồng workflow automation, kèm backend API.</p>
+    <td width="33%" valign="top">
+      <h4>🤖 Agent SDK &amp; Workflow Automation</h4>
+      <sub>SDK cho AI agent và các luồng workflow automation, kèm backend API.</sub>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>B2C Sales Platform + AI Chatbot</h3>
-      <p>Full-stack e-commerce với chatbot AI tư vấn & hỗ trợ khách hàng tự động.</p>
+    <td width="33%" valign="top">
+      <h4>🛒 B2C Sales Platform + AI Chatbot</h4>
+      <sub>Full-stack e-commerce với chatbot AI tư vấn &amp; hỗ trợ khách hàng tự động.</sub>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -212,9 +210,11 @@ timeline
         <img src="https://img.shields.io/badge/AI-7E57C2?style=flat-square"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>IELTS AI Learning System</h3>
-      <p>Nền tảng luyện thi IELTS cá nhân hóa bằng AI/NLP theo từng người học.</p>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📚 IELTS AI Learning System</h4>
+      <sub>Nền tảng luyện thi IELTS cá nhân hóa bằng AI/NLP theo từng người học.</sub>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -222,19 +222,17 @@ timeline
         <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Task Management System</h3>
-      <p>Quản lý công việc: task CRUD, checklist, attachment, deadline, priority & gán thành viên.</p>
+    <td width="33%" valign="top">
+      <h4>✅ Task Management System</h4>
+      <sub>Quản lý công việc: task CRUD, checklist, attachment, deadline, priority &amp; gán thành viên.</sub>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Coffee Shop Management</h3>
-      <p>Hệ thống quản lý quán: đăng nhập, quản lý bàn, người dùng & phân quyền.</p>
+    <td width="33%" valign="top">
+      <h4>☕ Coffee Shop Management</h4>
+      <sub>Hệ thống quản lý quán: đăng nhập, quản lý bàn, người dùng &amp; phân quyền.</sub>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -244,23 +242,42 @@ timeline
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Facebook Clone (Flutter)</h3>
-      <p>Social app: post, story, like, comment, notification & birthday events.</p>
+    <td width="33%" valign="top">
+      <h4>📱 Facebook Clone (Flutter)</h4>
+      <sub>Social app: post, story, like, comment, notification &amp; birthday events.</sub>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Current Strengths</h3>
-      <p>
+    <td width="66%" valign="top" colspan="2">
+      <h4>💪 Current Strengths</h4>
+      <sub>
         Full-stack Web (Spring Boot · NestJS · Django)<br/>
-        React Frontend & Database Design<br/>
-        Docker & Deployment · Firebase<br/>
+        React Frontend &amp; Database Design<br/>
+        Docker &amp; Deployment · Firebase<br/>
         AI Integration · Agile Workflow
-      </p>
+      </sub>
     </td>
+  </tr>
+</table>
+
+<!-- ============================ ARTICLES ============================ -->
+
+## My Recent Articles
+
+<table width="100%">
+  <tr>
+    <td>📄 Building an Invoice Extraction Agent with LLMs</td>
+    <td align="right"><sub>Coming soon</sub></td>
+  </tr>
+  <tr>
+    <td>📄 Designing an SDK for AI Agents &amp; Workflow Automation</td>
+    <td align="right"><sub>Coming soon</sub></td>
+  </tr>
+  <tr>
+    <td>📄 From Graduate to Software Developer: Lessons from My First Year</td>
+    <td align="right"><sub>Coming soon</sub></td>
   </tr>
 </table>
 
