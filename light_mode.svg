@@ -8,15 +8,15 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #57606a;}
+.key {fill: #df2531;}
+.value {fill: #ffffff;}
+.addColor {fill: #ff5c66;}
+.delColor {fill: #911820;}
+.cc {fill: #6b6b6b;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="989px" height="804px" fill="#ffffff" rx="15"/>
-<text x="15" y="26" fill="#24292f" class="ascii">
+<rect width="989px" height="804px" fill="#000000" stroke="#df2531" stroke-opacity=".45" rx="15"/>
+<text x="15" y="26" fill="#d6d6d6" class="ascii">
 <tspan x="15" y="122">                              @@@@</tspan>
 <tspan x="15" y="138">                      @@ @@@@@@@@@@@</tspan>
 <tspan x="15" y="154">              @@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
@@ -53,7 +53,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="650">                        ''`";IlII:</tspan>
 <tspan x="15" y="666">                          '`^"^</tspan>
 </text>
-<text x="475" y="26" fill="#24292f">
+<text x="475" y="26" fill="#d6d6d6">
 <tspan x="475" y="26"><tspan>hoangtuanphong</tspan> -------------------------------------------------</tspan>
 <tspan x="475" y="42"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Windows 11, Ubuntu (WSL)</tspan></tspan>
 <tspan x="475" y="58"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................................. </tspan><tspan class="value" id="age_data">22 years</tspan></tspan>

@@ -1,39 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img" aria-label="Recent articles">
 <style>
-  .card{fill:#FBFBFA;stroke:#EAEAEA}
-  .card.now{stroke:#2F3437}
-  .tile{fill:#F1F1EF}
-  .glyph{fill:none;stroke:#2F3437;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
-  .title{fill:#111111;font:600 17px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:-.01em}
-  .jtitle{fill:#111111;font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
-  .desc{fill:#787774;font:400 13px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
-  .row{fill:#2F3437;font:400 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
-  .meta{fill:#9B9A97;font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:.08em}
-  .bullet{fill:#2F3437;font:400 13px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+  .card{fill:#FFFFFF;stroke:#EAEAEA}
+  .card.now{stroke:#DF2531}
+  .tile{fill:#DF2531;fill-opacity:.1}
+  .glyph{fill:none;stroke:#DF2531;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+  .title{fill:#000000;font:600 17px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:-.01em}
+  .jtitle{fill:#000000;font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+  .desc{fill:#6B6B6B;font:400 13px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+  .row{fill:#111111;font:400 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+  .meta{fill:#DF2531;font:600 11px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:.08em}
+  .bullet{fill:#111111;font:400 13px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
   .rule{stroke:#EAEAEA}
-  .dot{fill:#2F3437}
-  .halo{fill:#E1F3FE}
+  .dot{fill:#DF2531}
+  .halo{fill:#DF2531;fill-opacity:.25}
   .tag{font:600 10px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:.06em}
-  .t-blue rect{fill:#E1F3FE} .t-blue text,.t-blue path{fill:#1F6C9F}
-  .t-green rect{fill:#EDF3EC} .t-green text,.t-green path{fill:#346538}
-  .t-yellow rect{fill:#FBF3DB} .t-yellow text,.t-yellow path{fill:#956400}
-  .t-red rect{fill:#FDEBEC} .t-red text,.t-red path{fill:#9F2F2D}
+  .t-ink rect{fill:#000000;fill-opacity:.06} .t-ink text,.t-ink path{fill:#111111}
+  .t-red rect{fill:#DF2531;fill-opacity:.12} .t-red text,.t-red path{fill:#DF2531}
   @media (prefers-color-scheme: dark){
-    .card{fill:#151B23;stroke:#2A313C}
-    .card.now{stroke:#9198A1}
-    .tile{fill:#212830}
-    .glyph{stroke:#D1D7E0}
-    .title,.jtitle{fill:#F0F3F6}
-    .desc{fill:#9198A1}
-    .row,.bullet{fill:#D1D7E0}
-    .meta{fill:#7D8590}
-    .rule{stroke:#2A313C}
-    .dot{fill:#D1D7E0}
-    .halo{fill:#1F6C9F;fill-opacity:.35}
-    .t-blue rect{fill:#388BFD;fill-opacity:.15} .t-blue text,.t-blue path{fill:#79C0FF}
-    .t-green rect{fill:#2EA043;fill-opacity:.15} .t-green text,.t-green path{fill:#7EE787}
-    .t-yellow rect{fill:#BB8009;fill-opacity:.15} .t-yellow text,.t-yellow path{fill:#E3B341}
-    .t-red rect{fill:#F85149;fill-opacity:.13} .t-red text,.t-red path{fill:#FFA198}
+    .card{fill:#000000;stroke:#DF2531;stroke-opacity:.45}
+    .card.now{stroke:#DF2531;stroke-opacity:1}
+    .tile{fill-opacity:.18}
+    .glyph{stroke:#FF5C66}
+    .title,.jtitle{fill:#FFFFFF}
+    .desc{fill:#A3A3A3}
+    .row,.bullet{fill:#E6E6E6}
+    .meta{fill:#FF5C66}
+    .rule{stroke:#DF2531;stroke-opacity:.35}
+    .dot{fill:#FFFFFF}
+    .halo{fill-opacity:.55}
+    .t-ink rect{fill:#FFFFFF;fill-opacity:.08} .t-ink text,.t-ink path{fill:#FFFFFF}
+    .t-red rect{fill:#DF2531;fill-opacity:.25} .t-red text,.t-red path{fill:#FF5C66}
   }
 </style>
 <path transform="translate(2 18) scale(.83)" class="glyph" d="M7 3h7l4 4v14H7z M14 3v4h4 M10 12h5 M10 16h5"/>
