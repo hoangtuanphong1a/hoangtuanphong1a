@@ -1,7 +1,7 @@
-<!-- ============================ BANNER ============================ -->
+<!-- ============================ HERO ============================ -->
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Hoang Tuan Phong - Software Developer, Full-stack &amp; AI"/>
+  <img src="./assets/hero.jpg" width="100%" alt="Tuan Phong - Backend Developer, Full-stack &amp; AI Integration"/>
 </p>
 
 <!-- ============================ ABOUT ============================ -->
