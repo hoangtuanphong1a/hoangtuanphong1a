@@ -14,7 +14,7 @@
       <img src="./assets/avatar.jpg" width="240" alt="Tuan Phong, anime portrait"/>
     </td>
     <td width="64%" valign="middle">
-      <p>IT graduate based in Vietnam, working as a <b>Software Developer (Full-stack &amp; AI)</b> at <b>iMBrace Limited</b>.</p>
+      <p>IT graduate based in Vietnam, working as a <b>Software Developer (Full-stack &amp; AI)</b>.</p>
       <p>Shipped projects with <b>Spring Boot, NestJS, Django, ReactJS &amp; Flutter</b>. Focused on <b>AI integration</b> — chatbots, recommendation systems &amp; NLP.</p>
       <p>Currently sharpening <b>clean architecture, system design &amp; deployment</b>. Ask me about Backend, React, Docker, Firebase, or AI integration.</p>
     </td>

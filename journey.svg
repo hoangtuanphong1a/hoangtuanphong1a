@@ -71,7 +71,7 @@
 <circle cx="921.7" cy="40" r="4" class="dot"/>
 <rect x="843.8" y="64.5" width="155.7" height="139" rx="12" class="card now"/>
 <text x="861.3" y="92" class="meta">NOW</text>
-<text x="861.3" y="120" class="jtitle">iMBrace Limited</text>
+<text x="861.3" y="120" class="jtitle">Current Role</text>
 <text x="861.3" y="142" class="desc">AI Agents · SDK ·</text>
 <text x="861.3" y="161" class="desc">Workflow Automation</text>
 </svg>
