@@ -1,13 +1,13 @@
-<!-- ============================ GREETING ============================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=26&duration=3200&pause=900&color=DF2531&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I%27m+Tuan+Phong;Backend+Developer+%C2%B7+Full-stack+%C2%B7+AI+Integration;Better+Code%2C+Brighter+Future;Let%27s+build+something+great%21" alt="Hi, I'm Tuan Phong"/>
-</p>
-
 <!-- ============================ HERO ============================ -->
 
 <p align="center">
   <img src="./assets/hero.jpg" width="100%" alt="Tuan Phong - Backend Developer, Full-stack &amp; AI Integration"/>
+</p>
+
+<!-- ============================ GREETING ============================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=26&duration=3200&pause=900&color=DF2531&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I%27m+Tuan+Phong;Backend+Developer+%C2%B7+Full-stack+%C2%B7+AI+Integration;Better+Code%2C+Brighter+Future;Let%27s+build+something+great%21" alt="Hi, I'm Tuan Phong"/>
 </p>
 
 <!-- ============================ ABOUT ============================ -->
@@ -31,12 +31,8 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 <br clear="left"/>
 
 <p align="center">
-  <a href="https://github.com/hoangtuanphong1a"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-tu%E1%BA%A5n-phong-787846376"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn"/></a>
   <a href="mailto:hoangtuanphong1a@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hoangtuanphong1a/hoangtuanphong1a/main/light_mode.svg" width="100%" alt="Tuan Phong - neofetch card"/>
 </p>
 
 
@@ -62,22 +58,4 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 
 <p align="center">
   <img src="./projects.svg" width="100%" alt="Featured projects"/>
-</p>
-
-<!-- ============================ REPOSITORIES ============================ -->
-
-<h3 align="center">My Repositories</h3>
-
-<p align="center">
-  <a href="https://github.com/hoangtuanphong1a/Trader-Comminity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=Trader-Comminity&bg_color=000000&title_color=df2531&text_color=d6d6d6&icon_color=df2531&border_color=64101a" alt="Trader-Comminity"/>
-  </a>
-</p>
-
-<!-- ============================ ARTICLES ============================ -->
-
-<h3 align="center">Recent Articles</h3>
-
-<p align="center">
-  <img src="./articles.svg" width="100%" alt="Recent articles"/>
 </p>
