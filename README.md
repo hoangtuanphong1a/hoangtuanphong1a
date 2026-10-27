@@ -42,17 +42,6 @@
 - Currently sharpening **clean architecture, system design &amp; deployment**
 - Ask me about **Backend, React, Docker, Firebase, or AI integration**
 
-```typescript
-const phong = {
-  role: "Software Developer",
-  location: "Vietnam",
-  focus: ["Full-stack Web", "AI Integration", "Software Project Management"],
-  stack: ["Spring Boot", "NestJS", "Django", "React", "Flutter"],
-  building: ["B2C platform w/ AI chatbot", "AI-powered IELTS learning system"],
-  mindset: "Learn by shipping real projects.",
-};
-```
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/hoangtuanphong1a/hoangtuanphong1a/main/light_mode.svg" width="100%" alt="Tuan Phong - neofetch card"/>
 </p>
