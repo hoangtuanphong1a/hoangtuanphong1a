@@ -4,10 +4,48 @@
   <img src="./assets/hero.jpg" width="100%" alt="Tuan Phong - Backend Developer, Full-stack &amp; AI Integration"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=for-the-badge&color=df2531&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/stars/hoangtuanphong1a?affiliations=OWNER&style=for-the-badge&color=df2531&labelColor=000000&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=for-the-badge&color=df2531&labelColor=000000&logo=github&logoColor=white" alt="Followers"/>
+</p>
+
 <!-- ============================ ABOUT ============================ -->
 
+<h3 align="center">Who Am I?</h3>
+
+<table align="center">
+  <tr>
+    <td width="36%" align="center">
+      <img src="./assets/avatar.jpg" width="240" alt="Tuan Phong, anime portrait"/>
+    </td>
+    <td width="64%" valign="middle">
+      <p>IT graduate based in Vietnam, working as a <b>Software Developer (Full-stack &amp; AI)</b> at <b>iMBrace Limited</b>.</p>
+      <p>Shipped projects with <b>Spring Boot, NestJS, Django, ReactJS &amp; Flutter</b>. Focused on <b>AI integration</b> — chatbots, recommendation systems &amp; NLP.</p>
+      <p>Currently sharpening <b>clean architecture, system design &amp; deployment</b>. Ask me about Backend, React, Docker, Firebase, or AI integration.</p>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">A Bit More About Me</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li><b>Clean over clever</b> — readable code beats clever one-liners.</li>
+        <li><b>Design before code</b> — model the data and the flow first.</li>
+        <li><b>Ship &amp; iterate</b> — small commits, fast feedback loops.</li>
+        <li><b>Own the bug</b> — reproduce it, fix the root cause, add a guard.</li>
+        <li><b>Learn in public</b> — document, share, keep improving.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="./assets/intro.svg" width="100%" alt="About me"/>
+  <a href="https://github.com/hoangtuanphong1a"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub"/></a>
+  <a href="mailto:hoangtuanphong1a@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -15,96 +53,29 @@
 </p>
 
 
-<!-- ============================ CONNECT ============================ -->
+<!-- ============================ GITHUB STATUS ============================ -->
+
+<h3 align="center">GitHub Status</h3>
 
 <p align="center">
-  <img src="./assets/header-connect.svg" width="100%" alt="Connect"/>
-</p>
-
-<table align="center">
-  <tr>
-    <th>GitHub</th>
-    <th>Email</th>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/hoangtuanphong1a"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/></a></td>
-    <td align="center"><a href="mailto:hoangtuanphong1a@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"/></a></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=flat-square&color=54A6FF&label=Profile+views"/>
-  <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=flat-square&color=54A6FF&labelColor=181717&label=Followers"/>
-</div>
-
-<!-- ============================ SKILL SET ============================ -->
-
-<p align="center">
-  <img src="./assets/header-skills.svg" width="100%" alt="Skill set"/>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/><br/><sub>Java</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/><br/><sub>Python</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML"/><br/><sub>HTML</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS"/><br/><sub>CSS</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring"/><br/><sub>Spring</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=hibernate" width="40" alt="Hibernate"/><br/><sub>Hibernate</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS"/><br/><sub>NestJS</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"/><br/><sub>Express</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=django" width="40" alt="Django"/><br/><sub>Django</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/><br/><sub>React</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"/><br/><sub>Redux</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=flutter" width="40" alt="Flutter"/><br/><sub>Flutter</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=dart" width="40" alt="Dart"/><br/><sub>Dart</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase"/><br/><sub>Firebase</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="SQLite"/><br/><sub>SQLite</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker"/><br/><sub>Docker</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/><br/><sub>Git</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab"/><br/><sub>GitLab</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="Actions"/><br/><sub>Actions</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"/><br/><sub>Linux</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=idea" width="40" alt="IntelliJ"/><br/><sub>IntelliJ</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"/><br/><sub>Postman</sub></td>
-    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=notion" width="40" alt="Notion"/><br/><sub>Notion</sub></td>
-  </tr>
-</table>
-
-<!-- ============================ CONTRIBUTIONS ============================ -->
-
-<p align="center">
-  <img src="./assets/header-contributions.svg" width="100%" alt="Contributions"/>
+  <img src="https://streak-stats.demolab.com?user=hoangtuanphong1a&hide_border=false&border=64101a&background=000000&stroke=df2531&ring=df2531&fire=df2531&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=df2531&sideLabels=ffffff&dates=8a8a8a" alt="GitHub streak"/>
 </p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-red.svg" width="100%" alt="3D contribution graph"/>
 </p>
 
-<!-- ============================ JOURNEY ============================ -->
+<!-- ============================ STACKS ============================ -->
+
+<h3 align="center">My Stacks</h3>
 
 <p align="center">
-  <img src="./assets/header-journey.svg" width="100%" alt="Journey"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,spring,hibernate,nestjs,express,nodejs,django,fastapi,react,redux,bootstrap,tailwind,flutter,dart,firebase,mysql,postgres,mongodb,sqlite,pytorch,tensorflow,docker,git,github,gitlab,githubactions,linux,vscode,idea,postman,notion&perline=9" alt="Java, JavaScript, TypeScript, Python, HTML, CSS, Spring, Hibernate, NestJS, Express, Node.js, Django, FastAPI, React, Redux, Bootstrap, Tailwind, Flutter, Dart, Firebase, MySQL, PostgreSQL, MongoDB, SQLite, PyTorch, TensorFlow, Docker, Git, GitHub, GitLab, GitHub Actions, Linux, VS Code, IntelliJ, Postman, Notion"/>
 </p>
+
+<!-- ============================ JOURNEY ============================ -->
+
+<h3 align="center">Journey</h3>
 
 <p align="center">
   <img src="./journey.svg" width="100%" alt="Development journey"/>
@@ -112,19 +83,25 @@
 
 <!-- ============================ PROJECTS ============================ -->
 
-<p align="center">
-  <img src="./assets/header-projects.svg" width="100%" alt="Featured projects"/>
-</p>
+<h3 align="center">Featured Projects</h3>
 
 <p align="center">
   <img src="./projects.svg" width="100%" alt="Featured projects"/>
 </p>
 
-<!-- ============================ ARTICLES ============================ -->
+<!-- ============================ REPOSITORIES ============================ -->
+
+<h3 align="center">My Repositories</h3>
 
 <p align="center">
-  <img src="./assets/header-articles.svg" width="100%" alt="Recent articles"/>
+  <a href="https://github.com/hoangtuanphong1a/Trader-Comminity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtuanphong1a&repo=Trader-Comminity&bg_color=000000&title_color=df2531&text_color=d6d6d6&icon_color=df2531&border_color=64101a" alt="Trader-Comminity"/>
+  </a>
 </p>
+
+<!-- ============================ ARTICLES ============================ -->
+
+<h3 align="center">Recent Articles</h3>
 
 <p align="center">
   <img src="./articles.svg" width="100%" alt="Recent articles"/>
