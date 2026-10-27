@@ -7,13 +7,16 @@
   .row{fill:#1f2328;font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
   .date{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
   .rule{stroke:#d0d7de}
+  .year{fill:#54A6FF;font:700 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+  .jtitle{fill:#1f2328;font:600 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
   .icon{font:18px 'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif}
   @media (prefers-color-scheme: dark){
     .card{fill:#161b22;stroke:#30363d}
-    .title,.row{fill:#e6edf3}
+    .title,.row,.jtitle{fill:#e6edf3}
     .desc,.date{fill:#8b949e}
     .rule{stroke:#30363d}
   }
+  .card.now{stroke:#54A6FF}
 </style>
 <text x="4" y="29" class="icon">📄</text>
 <text x="36" y="28" class="row">Building an Invoice Extraction Agent with LLMs</text>

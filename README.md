@@ -154,16 +154,9 @@
 
 ## Development Journey
 
-```mermaid
-timeline
-    title My Development Journey
-    2022 : CS Fundamentals : Java · OOP
-    2023 : First Full-stack Apps : Spring Boot · React
-    2024 : Backend & DevOps : NestJS · Docker
-    2025 : AI Integration : Django · NLP · Chatbot
-    2026 : Graduated : Software Developer — Full-stack + AI
-         : iMBrace Limited : AI Agents · SDK · Workflow Automation
-```
+<p align="center">
+  <img src="./journey.svg" width="100%" alt="Development journey"/>
+</p>
 
 <!-- ============================ PROJECTS ============================ -->
 
