@@ -1,3 +1,9 @@
+<!-- ============================ GREETING ============================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=26&duration=3200&pause=900&color=DF2531&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I%27m+Tuan+Phong;Backend+Developer+%C2%B7+Full-stack+%C2%B7+AI+Integration;Better+Code%2C+Brighter+Future;Let%27s+build+something+great%21" alt="Hi, I'm Tuan Phong"/>
+</p>
+
 <!-- ============================ HERO ============================ -->
 
 <p align="center">
@@ -103,9 +109,3 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 <p align="center">
   <img src="./articles.svg" width="100%" alt="Recent articles"/>
 </p>
-
-<!-- ============================ FOOTER ============================ -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=54A6FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!;Let's+build+something+great+together!" alt="Footer"/>
-</div>
