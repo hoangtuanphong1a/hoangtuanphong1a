@@ -1,106 +1,110 @@
+<!-- ============================ BANNER ============================ -->
+
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Hoang Tuan Phong - Software Developer, Full-stack &amp; AI"/>
+</p>
+
 <!-- ============================ ABOUT ============================ -->
 
-## About Me
+<p align="center">
+  <img src="./assets/intro.svg" width="100%" alt="About me"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hoangtuanphong1a/hoangtuanphong1a/main/light_mode.svg" width="100%" alt="Tuan Phong - neofetch card"/>
 </p>
 
-<!-- ============================ SOCIALS ============================ -->
 
-<div align="center">
-  <a href="https://github.com/hoangtuanphong1a" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:hoangtuanphong1a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<!-- ============================ CONNECT ============================ -->
+
+<p align="center">
+  <img src="./assets/header-connect.svg" width="100%" alt="Connect"/>
+</p>
+
+<table align="center">
+  <tr>
+    <th>GitHub</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/hoangtuanphong1a"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/></a></td>
+    <td align="center"><a href="mailto:hoangtuanphong1a@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"/></a></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hoangtuanphong1a&style=flat-square&color=54A6FF&label=Profile+views"/>
   <img src="https://img.shields.io/github/followers/hoangtuanphong1a?style=flat-square&color=54A6FF&labelColor=181717&label=Followers"/>
 </div>
 
-<br/>
+<!-- ============================ SKILL SET ============================ -->
 
-<!-- ============================ TECH STACK ============================ -->
+<p align="center">
+  <img src="./assets/header-skills.svg" width="100%" alt="Skill set"/>
+</p>
 
-## Tech Stack
-
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="25%" valign="top" align="center">
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&perline=3" alt="Languages"/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=spring,hibernate,nestjs,express,nodejs,django,fastapi&perline=3" alt="Backend"/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind&perline=3" alt="Frontend"/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>Mobile</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3" alt="Mobile"/>
-    </td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML"/><br/><sub>HTML</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS"/><br/><sub>CSS</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring"/><br/><sub>Spring</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=hibernate" width="40" alt="Hibernate"/><br/><sub>Hibernate</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS"/><br/><sub>NestJS</sub></td>
   </tr>
   <tr>
-    <td width="25%" valign="top" align="center">
-      <h3>Database</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=3" alt="Database"/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>AI / ML</h3>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&perline=3" alt="AI / ML"/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,linux&perline=3" alt="DevOps & Cloud"/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,notion&perline=3" alt="Tools"/>
-    </td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"/><br/><sub>Express</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=django" width="40" alt="Django"/><br/><sub>Django</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"/><br/><sub>Redux</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=flutter" width="40" alt="Flutter"/><br/><sub>Flutter</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=dart" width="40" alt="Dart"/><br/><sub>Dart</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase"/><br/><sub>Firebase</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="SQLite"/><br/><sub>SQLite</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker"/><br/><sub>Docker</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab"/><br/><sub>GitLab</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="Actions"/><br/><sub>Actions</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"/><br/><sub>Linux</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=idea" width="40" alt="IntelliJ"/><br/><sub>IntelliJ</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"/><br/><sub>Postman</sub></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=notion" width="40" alt="Notion"/><br/><sub>Notion</sub></td>
   </tr>
 </table>
 
-<!-- ============================ DASHBOARD ============================ -->
+<!-- ============================ CONTRIBUTIONS ============================ -->
 
-## Software Engineering Dashboard
+<p align="center">
+  <img src="./assets/header-contributions.svg" width="100%" alt="Contributions"/>
+</p>
 
-<div align="center">
-  <img height="170px" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=hoangtuanphong1a&hide_border=true&background=0d1117&stroke=54A6FF&ring=54A6FF&fire=54A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=54A6FF&sideLabels=54A6FF&dates=8b949e"/>
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph"/>
+</p>
 
-<div align="center">
-  <img alt="Contribution Graph" src="https://ghchart.rshah.org/54A6FF/hoangtuanphong1a" width="90%"/>
-</div>
+<!-- ============================ JOURNEY ============================ -->
 
-<div align="center">
-  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhoangtuanphong1a&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=54A6FF&labelColor=0d1117&logo=github&logoColor=white"/>
-  <img alt="Member since" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhoangtuanphong1a&query=%24.created_at&label=On%20GitHub%20since&style=for-the-badge&color=54A6FF&labelColor=0d1117"/>
-</div>
-
-<!-- ============================ ENGINEERING PRINCIPLES ============================ -->
-
-## Engineering Principles
-
-> **Clean over clever** — readable code beats clever one-liners.
->
-> **Design before code** — model the data and the flow first.
->
-> **Ship &amp; iterate** — small commits, fast feedback loops.
->
-> **Own the bug** — reproduce it, fix the root cause, add a guard.
->
-> **Learn in public** — document, share, keep improving.
-
-<!-- ============================ DEVELOPMENT JOURNEY ============================ -->
-
-## Development Journey
+<p align="center">
+  <img src="./assets/header-journey.svg" width="100%" alt="Journey"/>
+</p>
 
 <p align="center">
   <img src="./journey.svg" width="100%" alt="Development journey"/>
@@ -108,7 +112,9 @@
 
 <!-- ============================ PROJECTS ============================ -->
 
-## Featured Projects
+<p align="center">
+  <img src="./assets/header-projects.svg" width="100%" alt="Featured projects"/>
+</p>
 
 <p align="center">
   <img src="./projects.svg" width="100%" alt="Featured projects"/>
@@ -116,7 +122,9 @@
 
 <!-- ============================ ARTICLES ============================ -->
 
-## My Recent Articles
+<p align="center">
+  <img src="./assets/header-articles.svg" width="100%" alt="Recent articles"/>
+</p>
 
 <p align="center">
   <img src="./articles.svg" width="100%" alt="Recent articles"/>
