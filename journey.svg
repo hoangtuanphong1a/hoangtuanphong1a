@@ -1,68 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="198" viewBox="0 0 1000 198" role="img" aria-label="Development journey">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205" role="img" aria-label="Development journey">
 <style>
-  .card{fill:#ffffff;stroke:#d0d7de}
-  .title{fill:#1f2328;font:600 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .desc{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .pill{font:600 11px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .row{fill:#1f2328;font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .date{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .rule{stroke:#d0d7de}
-  .year{fill:#54A6FF;font:700 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .jtitle{fill:#1f2328;font:600 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .icon{font:18px 'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif}
+  .card{fill:#FBFBFA;stroke:#EAEAEA}
+  .card.now{stroke:#2F3437}
+  .tile{fill:#F1F1EF}
+  .glyph{fill:none;stroke:#2F3437;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+  .title{fill:#111111;font:500 19px 'Newsreader','Iowan Old Style','Georgia',serif;letter-spacing:-.01em}
+  .jtitle{fill:#111111;font:500 16px 'Newsreader','Iowan Old Style','Georgia',serif;letter-spacing:-.01em}
+  .desc{fill:#787774;font:400 13px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .row{fill:#2F3437;font:400 15px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .meta{fill:#9B9A97;font:500 11px 'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace;letter-spacing:.06em}
+  .bullet{fill:#2F3437;font:400 13px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .rule{stroke:#EAEAEA}
+  .dot{fill:#2F3437}
+  .halo{fill:#E1F3FE}
+  .tag{font:600 10px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.06em}
+  .t-blue rect{fill:#E1F3FE} .t-blue text,.t-blue path{fill:#1F6C9F}
+  .t-green rect{fill:#EDF3EC} .t-green text,.t-green path{fill:#346538}
+  .t-yellow rect{fill:#FBF3DB} .t-yellow text,.t-yellow path{fill:#956400}
+  .t-red rect{fill:#FDEBEC} .t-red text,.t-red path{fill:#9F2F2D}
   @media (prefers-color-scheme: dark){
-    .card{fill:#161b22;stroke:#30363d}
-    .title,.row,.jtitle{fill:#e6edf3}
-    .desc,.date{fill:#8b949e}
-    .rule{stroke:#30363d}
+    .card{fill:#151B23;stroke:#2A313C}
+    .card.now{stroke:#9198A1}
+    .tile{fill:#212830}
+    .glyph{stroke:#D1D7E0}
+    .title,.jtitle{fill:#F0F3F6}
+    .desc{fill:#9198A1}
+    .row,.bullet{fill:#D1D7E0}
+    .meta{fill:#7D8590}
+    .rule{stroke:#2A313C}
+    .dot{fill:#D1D7E0}
+    .halo{fill:#1F6C9F;fill-opacity:.35}
+    .t-blue rect{fill:#388BFD;fill-opacity:.15} .t-blue text,.t-blue path{fill:#79C0FF}
+    .t-green rect{fill:#2EA043;fill-opacity:.15} .t-green text,.t-green path{fill:#7EE787}
+    .t-yellow rect{fill:#BB8009;fill-opacity:.15} .t-yellow text,.t-yellow path{fill:#E3B341}
+    .t-red rect{fill:#F85149;fill-opacity:.13} .t-red text,.t-red path{fill:#FFA198}
   }
-  .card.now{stroke:#54A6FF}
 </style>
-<line x1="78.3" y1="46" x2="921.7" y2="46" stroke="#54A6FF" stroke-opacity=".45" stroke-width="2"/>
-<text x="78.3" y="22" text-anchor="middle" class="year">2022</text>
-<circle cx="78.3" cy="46" r="6" fill="#54A6FF"/>
-<line x1="78.3" y1="52" x2="78.3" y2="70" stroke="#54A6FF" stroke-opacity=".45" stroke-dasharray="3 3"/>
-<rect x="0.5" y="70.5" width="155.7" height="125" rx="10" class="card"/>
-<text x="14.0" y="106" class="icon">📘</text>
-<text x="14.0" y="134" class="jtitle">CS Fundamentals</text>
-<text x="14.0" y="154" class="desc">Java · OOP</text>
-<text x="247.0" y="22" text-anchor="middle" class="year">2023</text>
-<circle cx="247.0" cy="46" r="6" fill="#54A6FF"/>
-<line x1="247.0" y1="52" x2="247.0" y2="70" stroke="#54A6FF" stroke-opacity=".45" stroke-dasharray="3 3"/>
-<rect x="169.2" y="70.5" width="155.7" height="125" rx="10" class="card"/>
-<text x="182.7" y="106" class="icon">🧩</text>
-<text x="182.7" y="134" class="jtitle">First Full-stack Apps</text>
-<text x="182.7" y="154" class="desc">Spring Boot · React</text>
-<text x="415.7" y="22" text-anchor="middle" class="year">2024</text>
-<circle cx="415.7" cy="46" r="6" fill="#54A6FF"/>
-<line x1="415.7" y1="52" x2="415.7" y2="70" stroke="#54A6FF" stroke-opacity=".45" stroke-dasharray="3 3"/>
-<rect x="337.8" y="70.5" width="155.7" height="125" rx="10" class="card"/>
-<text x="351.3" y="106" class="icon">🐳</text>
-<text x="351.3" y="134" class="jtitle">Backend &amp; DevOps</text>
-<text x="351.3" y="154" class="desc">NestJS · Docker</text>
-<text x="584.3" y="22" text-anchor="middle" class="year">2025</text>
-<circle cx="584.3" cy="46" r="6" fill="#54A6FF"/>
-<line x1="584.3" y1="52" x2="584.3" y2="70" stroke="#54A6FF" stroke-opacity=".45" stroke-dasharray="3 3"/>
-<rect x="506.5" y="70.5" width="155.7" height="125" rx="10" class="card"/>
-<text x="520.0" y="106" class="icon">🤖</text>
-<text x="520.0" y="134" class="jtitle">AI Integration</text>
-<text x="520.0" y="154" class="desc">Django · NLP ·</text>
-<text x="520.0" y="172" class="desc">Chatbot</text>
-<text x="753.0" y="22" text-anchor="middle" class="year">2026</text>
-<circle cx="753.0" cy="46" r="6" fill="#54A6FF"/>
-<line x1="753.0" y1="52" x2="753.0" y2="70" stroke="#54A6FF" stroke-opacity=".45" stroke-dasharray="3 3"/>
-<rect x="675.2" y="70.5" width="155.7" height="125" rx="10" class="card"/>
-<text x="688.7" y="106" class="icon">🎓</text>
-<text x="688.7" y="134" class="jtitle">Graduated</text>
-<text x="688.7" y="154" class="desc">Software Developer —</text>
-<text x="688.7" y="172" class="desc">Full-stack + AI</text>
-<text x="921.7" y="22" text-anchor="middle" class="year">2026</text>
-<circle cx="921.7" cy="46" r="11" fill="#54A6FF" fill-opacity=".25"/>
-<circle cx="921.7" cy="46" r="6" fill="#54A6FF"/>
-<line x1="921.7" y1="52" x2="921.7" y2="70" stroke="#54A6FF" stroke-opacity=".45" stroke-dasharray="3 3"/>
-<rect x="843.8" y="70.5" width="155.7" height="125" rx="10" class="card now"/>
-<text x="857.3" y="106" class="icon">💼</text>
-<text x="857.3" y="134" class="jtitle">iMBrace Limited</text>
-<text x="857.3" y="154" class="desc">AI Agents · SDK ·</text>
-<text x="857.3" y="172" class="desc">Workflow Automation</text>
+<line x1="78.3" y1="40" x2="921.7" y2="40" class="rule" stroke-width="1"/>
+<text x="78.3" y="16" text-anchor="middle" class="meta">2022</text>
+<circle cx="78.3" cy="40" r="4" class="dot"/>
+<rect x="0.5" y="64.5" width="155.7" height="139" rx="12" class="card"/>
+<text x="18.0" y="92" class="meta">01</text>
+<text x="18.0" y="120" class="jtitle">CS Fundamentals</text>
+<text x="18.0" y="142" class="desc">Java · OOP</text>
+<text x="247.0" y="16" text-anchor="middle" class="meta">2023</text>
+<circle cx="247.0" cy="40" r="4" class="dot"/>
+<rect x="169.2" y="64.5" width="155.7" height="139" rx="12" class="card"/>
+<text x="186.7" y="92" class="meta">02</text>
+<text x="186.7" y="120" class="jtitle">First Full-stack</text>
+<text x="186.7" y="140" class="jtitle">Apps</text>
+<text x="186.7" y="162" class="desc">Spring Boot · React</text>
+<text x="415.7" y="16" text-anchor="middle" class="meta">2024</text>
+<circle cx="415.7" cy="40" r="4" class="dot"/>
+<rect x="337.8" y="64.5" width="155.7" height="139" rx="12" class="card"/>
+<text x="355.3" y="92" class="meta">03</text>
+<text x="355.3" y="120" class="jtitle">Backend &amp; DevOps</text>
+<text x="355.3" y="142" class="desc">NestJS · Docker</text>
+<text x="584.3" y="16" text-anchor="middle" class="meta">2025</text>
+<circle cx="584.3" cy="40" r="4" class="dot"/>
+<rect x="506.5" y="64.5" width="155.7" height="139" rx="12" class="card"/>
+<text x="524.0" y="92" class="meta">04</text>
+<text x="524.0" y="120" class="jtitle">AI Integration</text>
+<text x="524.0" y="142" class="desc">Django · NLP ·</text>
+<text x="524.0" y="161" class="desc">Chatbot</text>
+<text x="753.0" y="16" text-anchor="middle" class="meta">2026</text>
+<circle cx="753.0" cy="40" r="4" class="dot"/>
+<rect x="675.2" y="64.5" width="155.7" height="139" rx="12" class="card"/>
+<text x="692.7" y="92" class="meta">05</text>
+<text x="692.7" y="120" class="jtitle">Graduated</text>
+<text x="692.7" y="142" class="desc">Software Developer</text>
+<text x="692.7" y="161" class="desc">— Full-stack + AI</text>
+<text x="921.7" y="16" text-anchor="middle" class="meta">2026</text>
+<circle cx="921.7" cy="40" r="9" class="halo"/>
+<circle cx="921.7" cy="40" r="4" class="dot"/>
+<rect x="843.8" y="64.5" width="155.7" height="139" rx="12" class="card now"/>
+<text x="861.3" y="92" class="meta">NOW</text>
+<text x="861.3" y="120" class="jtitle">iMBrace Limited</text>
+<text x="861.3" y="142" class="desc">AI Agents · SDK ·</text>
+<text x="861.3" y="161" class="desc">Workflow Automation</text>
 </svg>

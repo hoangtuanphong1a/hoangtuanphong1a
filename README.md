@@ -174,28 +174,6 @@
   <img src="./articles.svg" width="100%" alt="Recent articles"/>
 </p>
 
-<!-- ============================ GOALS ============================ -->
-
-## 2026 Goals
-
-```mermaid
-mindmap
-  root((2026))
-    Backend Depth
-      Spring Boot & NestJS
-      Clean Architecture
-      System Design
-    AI / ML
-      PyTorch & NLP
-      Recommendation Systems
-    DevOps
-      Docker & CI/CD
-      Linux Deployment
-    Growth
-      Open Source
-      Technical Writing
-```
-
 <!-- ============================ FOOTER ============================ -->
 
 <div align="center">

@@ -1,32 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="138" viewBox="0 0 1000 138" role="img" aria-label="Recent articles">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img" aria-label="Recent articles">
 <style>
-  .card{fill:#ffffff;stroke:#d0d7de}
-  .title{fill:#1f2328;font:600 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .desc{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .pill{font:600 11px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .row{fill:#1f2328;font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .date{fill:#59636e;font:400 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .rule{stroke:#d0d7de}
-  .year{fill:#54A6FF;font:700 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .jtitle{fill:#1f2328;font:600 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
-  .icon{font:18px 'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif}
+  .card{fill:#FBFBFA;stroke:#EAEAEA}
+  .card.now{stroke:#2F3437}
+  .tile{fill:#F1F1EF}
+  .glyph{fill:none;stroke:#2F3437;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+  .title{fill:#111111;font:500 19px 'Newsreader','Iowan Old Style','Georgia',serif;letter-spacing:-.01em}
+  .jtitle{fill:#111111;font:500 16px 'Newsreader','Iowan Old Style','Georgia',serif;letter-spacing:-.01em}
+  .desc{fill:#787774;font:400 13px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .row{fill:#2F3437;font:400 15px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .meta{fill:#9B9A97;font:500 11px 'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace;letter-spacing:.06em}
+  .bullet{fill:#2F3437;font:400 13px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .rule{stroke:#EAEAEA}
+  .dot{fill:#2F3437}
+  .halo{fill:#E1F3FE}
+  .tag{font:600 10px -apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:.06em}
+  .t-blue rect{fill:#E1F3FE} .t-blue text,.t-blue path{fill:#1F6C9F}
+  .t-green rect{fill:#EDF3EC} .t-green text,.t-green path{fill:#346538}
+  .t-yellow rect{fill:#FBF3DB} .t-yellow text,.t-yellow path{fill:#956400}
+  .t-red rect{fill:#FDEBEC} .t-red text,.t-red path{fill:#9F2F2D}
   @media (prefers-color-scheme: dark){
-    .card{fill:#161b22;stroke:#30363d}
-    .title,.row,.jtitle{fill:#e6edf3}
-    .desc,.date{fill:#8b949e}
-    .rule{stroke:#30363d}
+    .card{fill:#151B23;stroke:#2A313C}
+    .card.now{stroke:#9198A1}
+    .tile{fill:#212830}
+    .glyph{stroke:#D1D7E0}
+    .title,.jtitle{fill:#F0F3F6}
+    .desc{fill:#9198A1}
+    .row,.bullet{fill:#D1D7E0}
+    .meta{fill:#7D8590}
+    .rule{stroke:#2A313C}
+    .dot{fill:#D1D7E0}
+    .halo{fill:#1F6C9F;fill-opacity:.35}
+    .t-blue rect{fill:#388BFD;fill-opacity:.15} .t-blue text,.t-blue path{fill:#79C0FF}
+    .t-green rect{fill:#2EA043;fill-opacity:.15} .t-green text,.t-green path{fill:#7EE787}
+    .t-yellow rect{fill:#BB8009;fill-opacity:.15} .t-yellow text,.t-yellow path{fill:#E3B341}
+    .t-red rect{fill:#F85149;fill-opacity:.13} .t-red text,.t-red path{fill:#FFA198}
   }
-  .card.now{stroke:#54A6FF}
 </style>
-<text x="4" y="29" class="icon">📄</text>
-<text x="36" y="28" class="row">Building an Invoice Extraction Agent with LLMs</text>
-<text x="996" y="28" text-anchor="end" class="date">Coming soon</text>
-<line x1="0" y1="46" x2="1000" y2="46" class="rule"/>
-<text x="4" y="75" class="icon">📄</text>
-<text x="36" y="74" class="row">Designing an SDK for AI Agents &amp; Workflow Automation</text>
-<text x="996" y="74" text-anchor="end" class="date">Coming soon</text>
-<line x1="0" y1="92" x2="1000" y2="92" class="rule"/>
-<text x="4" y="121" class="icon">📄</text>
-<text x="36" y="120" class="row">From Graduate to Software Developer: Lessons from My First Year</text>
-<text x="996" y="120" text-anchor="end" class="date">Coming soon</text>
+<path transform="translate(2 18) scale(.83)" class="glyph" d="M7 3h7l4 4v14H7z M14 3v4h4 M10 12h5 M10 16h5"/>
+<text x="34" y="33" class="row">Building an Invoice Extraction Agent with LLMs</text>
+<text x="998" y="33" text-anchor="end" class="meta">COMING SOON</text>
+<line x1="0" y1="55.5" x2="1000" y2="55.5" class="rule"/>
+<path transform="translate(2 74) scale(.83)" class="glyph" d="M7 3h7l4 4v14H7z M14 3v4h4 M10 12h5 M10 16h5"/>
+<text x="34" y="89" class="row">Designing an SDK for AI Agents &amp; Workflow Automation</text>
+<text x="998" y="89" text-anchor="end" class="meta">COMING SOON</text>
+<line x1="0" y1="111.5" x2="1000" y2="111.5" class="rule"/>
+<path transform="translate(2 130) scale(.83)" class="glyph" d="M7 3h7l4 4v14H7z M14 3v4h4 M10 12h5 M10 16h5"/>
+<text x="34" y="145" class="row">From Graduate to Software Developer: Lessons from My First Year</text>
+<text x="998" y="145" text-anchor="end" class="meta">COMING SOON</text>
+<line x1="0" y1="167.5" x2="1000" y2="167.5" class="rule"/>
 </svg>
