@@ -138,3 +138,26 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 <p align="center">
   <img src="./projects.svg" width="100%" alt="Featured projects"/>
 </p>
+
+```aura width=252 height=48 link="https://github.com/hoangtuanphong1a/invoice-extraction-agent" inline align=center
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%' }}>
+  <SocialMediaButton
+    icon="https://skillicons.dev/icons?i=github"
+    text="invoice-extraction-agent"
+    backgroundColor="#0E0E10"
+    textColor="#F2F2F2"
+    borderColor="#2A2A30"
+    width={240}
+    height={44}
+    iconSize="20"
+    gradientStops={[
+      { offset: '0%', color: '#FFFFFF' },
+      { offset: '10%', color: '#111111' },
+      { offset: '50%', color: '#EEEEEE' },
+      { offset: '60%', color: '#DF2531' },
+      { offset: '80%', color: '#111111' },
+      { offset: '100%', color: '#555555' },
+    ]}
+  />
+</div>
+```
