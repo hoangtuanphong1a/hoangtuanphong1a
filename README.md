@@ -1,7 +1,19 @@
+<!--
+  README.md is generated from readme.source.md by readme-aura (GitHub Action on push to main).
+  Edit readme.source.md, never README.md. Local preview: npx readme-aura build
+  assets/hero.svg is hand-built (not by readme-aura).
+-->
+
 <!-- ============================ HERO ============================ -->
 
 <p align="center">
-  <img src="./assets/hero.jpg" width="100%" alt="Tuan Phong - Backend Developer, Full-stack &amp; AI Integration"/>
+  <img src="./assets/hero.svg" width="100%" alt="Tuan Phong - Backend Developer, Full-stack &amp; AI Integration"/>
+</p>
+
+<!-- ============================ LINKS ============================ -->
+
+<p align="center">
+<a href="https://github.com/hoangtuanphong1a"><img src="./.github/assets/readme-aura-component-0-43368be8.svg" width="132" height="48" /></a><a href="https://www.linkedin.com/in/ho%C3%A0ng-tu%E1%BA%A5n-phong-787846376"><img src="./.github/assets/readme-aura-component-1-db7dd674.svg" width="142" height="48" /></a><a href="mailto:hoangtuanphong1a@gmail.com"><img src="./.github/assets/readme-aura-component-2-ba0f82cc.svg" width="122" height="48" /></a>
 </p>
 
 <!-- ============================ GREETING ============================ -->
@@ -29,12 +41,6 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 </p>
 
 <br clear="left"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ho%C3%A0ng-tu%E1%BA%A5n-phong-787846376"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn"/></a>
-  <a href="mailto:hoangtuanphong1a@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email"/></a>
-</p>
-
 
 <!-- ============================ STACKS ============================ -->
 
