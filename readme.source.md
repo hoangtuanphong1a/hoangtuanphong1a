@@ -91,9 +91,7 @@
 
 <h3 align="center">Who Am I?</h3>
 
-<p align="center">
-  <img src="./assets/portrait.jpg" width="220" alt="Tuan Phong"/>
-</p>
+<img src="./assets/portrait.jpg" align="left" width="260" alt="Tuan Phong"/>
 
 <p align="justify">
 I am an IT graduate and a <b>Software Developer</b> focused on <b>Full-stack &amp; AI</b>, based in Vietnam. I like turning ideas into products that actually run, and I learn best by <b>shipping real projects</b> rather than only reading about them.
