@@ -91,7 +91,9 @@
 
 <h3 align="center">Who Am I?</h3>
 
-<img src="./assets/portrait.jpg" align="left" width="260" alt="Tuan Phong"/>
+<p align="center">
+  <img src="./assets/portrait.jpg" width="220" alt="Tuan Phong"/>
+</p>
 
 <p align="justify">
 I am an IT graduate and a <b>Software Developer</b> focused on <b>Full-stack &amp; AI</b>, based in Vietnam. I like turning ideas into products that actually run, and I learn best by <b>shipping real projects</b> rather than only reading about them.
@@ -113,6 +115,14 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,spring,hibernate,nestjs,express,nodejs,django,fastapi,react,redux,bootstrap,tailwind,flutter,dart,firebase,mysql,postgres,mongodb,sqlite,pytorch,tensorflow,docker,git,github,gitlab,githubactions,linux,vscode,idea,postman,notion&perline=9" alt="Java, JavaScript, TypeScript, Python, HTML, CSS, Spring, Hibernate, NestJS, Express, Node.js, Django, FastAPI, React, Redux, Bootstrap, Tailwind, Flutter, Dart, Firebase, MySQL, PostgreSQL, MongoDB, SQLite, PyTorch, TensorFlow, Docker, Git, GitHub, GitLab, GitHub Actions, Linux, VS Code, IntelliJ, Postman, Notion"/>
+</p>
+
+<!-- ============================ CONTRIBUTIONS ============================ -->
+
+<h3 align="center">Contributions</h3>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-red.svg" width="100%" alt="3D contribution calendar, language mix and activity radar"/>
 </p>
 
 <!-- ============================ JOURNEY ============================ -->
