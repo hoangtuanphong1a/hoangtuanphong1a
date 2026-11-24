@@ -75,5 +75,5 @@ Right now my focus is <b>AI integration</b>: <code>AI agents</code>, <b>workflow
 </p>
 
 <p align="center">
-<a href="https://github.com/hoangtuanphong1a/invoice-extraction-agent"><img src="./.github/assets/readme-aura-component-3-1f226d9c.svg" width="252" height="48" /></a>
+<a href="https://github.com/hoangtuanphong1a/invoice-extraction-agent"><img src="./.github/assets/readme-aura-component-3-7f478989.svg" width="252" height="48" /></a>
 </p>
